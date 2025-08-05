@@ -1,1 +1,20 @@
-#~
+# hugo build output
+/public/
+/resources/
+
+# hugo cache
+/.hugo_build.lock
+
+# theme submodule
+/themes/*
+!themes/hugo-universal-theme/
+
+# os/system files
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
+*.swo

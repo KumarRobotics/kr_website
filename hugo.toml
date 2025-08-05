@@ -1,0 +1,141 @@
+baseURL = 'https://kumarrobotics.org/'
+languageCode = 'en-us'
+title = 'Kumar Robotics'
+theme = 'hugo-universal-theme'
+
+[menu]
+
+    [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+    [[menu.main]]
+    name = 'Research'
+    url = '#'
+    weight = 2
+    identifier = 'research'
+
+        [[menu.main]]
+        name = 'Current Projects'
+        url = '/research/current_projects/'
+        parent = 'research'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Publications'
+        url = '/research/publications/'
+        parent = 'research'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Videos'
+        url = '/research/videos/'
+        parent = 'research'
+        weight = 3
+
+        [[menu.main]]
+        name = 'Past Projects'
+        url = '/research/past_projects/'
+        parent = 'research'
+        weight = 4
+
+    [[menu.main]]
+    name = 'Education'
+    url = '#'
+    weight = 3
+    identifier = 'education'
+
+        [[menu.main]]
+        name = 'Teaching'
+        url = '/education/teaching/'
+        parent = 'education'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Outreach'
+        url = '/education/outreach/'
+        parent = 'education'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Y-Prize'
+        url = '/education/y-prize/'
+        parent = 'education'
+        weight = 3
+
+    [[menu.main]]
+    name = 'Group'
+    url = '#'
+    weight = 4
+    identifier = 'group'
+
+        [[menu.main]]
+        name = 'Vijay Kumar'
+        url = '/group/vijay_kumar/'
+        parent = 'group'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Current Members'
+        url = '/group/current_members/'
+        parent = 'group'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Alumni'
+        url = '/group/alumni/'
+        parent = 'group'
+        weight = 3
+    
+    [[menu.main]]
+    name = 'News'
+    url = '/news/'
+    weight = 5
+
+    [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 6
+
+[markup.goldmark.parser.attribute]
+    block = true
+    title = true
+
+[params]
+    disabled_logo = true
+    logo_text = "Vijay Kumar Lab"
+
+    about_us = """
+    Vijay Kumar Lab<br>
+    <a href="https://www.me.upenn.edu/">Department of Mechanical Engineering and Applied Mechanics</a><br>
+    School of Engineering and Applied Science<br>
+    University of Pennsylvania<br>
+    Towne 107, 220 S. 33rd Street<br>
+    Philadelphia, PA 19104-6315<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    <a href="https://www.grasp.upenn.edu/">
+        <img src="/img/logo/UPenn-GRASP-Long-Logo-ko.png" alt="Penn SEAS GRASP" class="footer-logo">
+    </a>
+    """ 
+    
+    address = """
+    <strong>Vijay Kumar, Ph.D.</strong><br>
+    <a href="mailto:kumar@seas.upenn.edu">kumar@seas.upenn.edu</a><br>
+    215.898.7244<br>
+    &nbsp;<br>
+    <strong>Lab</strong><br>
+    <a href="https://www.grasp.upenn.edu/innovation-engagement/grasp-at-perch/">GRASP Laboratory at PERCH Pennovation Works</a><br>
+    3401 Grays Ferry<br>
+    Philadelphia, PA 19146<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    © 2025 Vijay Kumar Lab. All rights reserved.<br>
+    Template by Bootstrapious.<br>
+    Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+    """ 
+
+    [params.features]
+        enable = true
+        cols = 4
