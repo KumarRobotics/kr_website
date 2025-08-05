@@ -1,0 +1,24 @@
+- title: "Hazardous environment inspection with MAVs"
+  # description: ""
+  image: "img/carousel/MAVs-01.png"
+  weight: 1
+
+- title: "Swarm of 250 gram Autonomous Drones"
+  # description: "."
+  image: "img/carousel/Swarm-01.png"
+  weight: 2
+
+- title: "ModQuad: Flying Modular Robots can Self Assemble in Mid Air"
+  # description: ""
+  image: "img/carousel/Modquad-01.png"
+  weight: 3
+
+- title: "Soft Bio-Compatible Micro Robots"
+  # description: ""
+  image: "img/carousel/Soft-Bio-Compatible-01.png"
+  weight: 4
+
+- title: "Precision Agriculture and Forestry"
+  # description: ""
+  image: "img/carousel/Precision-Agriculture01.png"
+  weight: 5
