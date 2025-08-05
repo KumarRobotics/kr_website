@@ -1,0 +1,47 @@
+- title: "Falcon 250"
+  # description: ""
+  image: "/img/carousel/Falcon250.webp"
+  weight: 1
+  href: ""
+
+- title: "M3ED: Falcon"
+  # description: ""
+  image: "/img/carousel/Falcon_m3ed.webp"
+  weight: 2
+  href: "/research/publications/#pub-m3ed"
+
+- title: "M3ED: Spot"
+  # description: ""
+  image: "/img/carousel/Spot_m3ed.webp"
+  weight: 3
+  href: "/research/publications/#pub-m3ed"
+
+- title: "Neurofly"
+  # description: ""
+  image: "/img/carousel/Neurofly.webp"
+  weight: 4
+  href: ""
+
+- title: "HALO"
+  # description: ""
+  image: "/img/carousel/HALO.webp"
+  weight: 5
+  href: ""
+
+- title: "Star"
+  # description: ""
+  image: "/img/carousel/Star.webp"
+  weight: 6
+  href: ""
+
+- title: "Jackal"
+  # description: ""
+  image: "/img/carousel/Jackal.webp"
+  weight: 7
+  href: ""
+
+- title: "Falcon WSF"
+  # description: ""
+  image: "/img/carousel/Falcon_wsf.webp"
+  weight: 8
+  href: "/research/publications/#pub-large-scale"

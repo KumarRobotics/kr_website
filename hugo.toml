@@ -1,0 +1,222 @@
+baseURL = 'https://kumarrobotics.org/'
+languageCode = 'en-us'
+title = 'Kumar Robotics'
+
+[menu]
+
+    [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+
+    [[menu.main]]
+    name = 'Research'
+    url = '#'
+    weight = 2
+    identifier = 'research'
+
+        [[menu.main]]
+        name = 'Current Projects'
+        url = '/research/current_projects/'
+        parent = 'research'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Publications'
+        url = '/research/publications/'
+        parent = 'research'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Videos'
+        url = '/research/videos/'
+        parent = 'research'
+        weight = 3
+
+        [[menu.main]]
+        name = 'Past Projects'
+        url = '/research/past_projects/'
+        parent = 'research'
+        weight = 4
+
+    [[menu.main]]
+    name = 'Education'
+    url = '#'
+    weight = 3
+    identifier = 'education'
+
+        [[menu.main]]
+        name = 'Teaching'
+        url = '/education/teaching/'
+        parent = 'education'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Outreach'
+        url = '/education/outreach/'
+        parent = 'education'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Y-Prize'
+        url = '/education/y-prize/'
+        parent = 'education'
+        weight = 3
+
+    [[menu.main]]
+    name = 'Group'
+    url = '#'
+    weight = 4
+    identifier = 'group'
+
+        [[menu.main]]
+        name = 'Vijay Kumar'
+        url = '/group/vijay_kumar/'
+        parent = 'group'
+        weight = 1
+
+        [[menu.main]]
+        name = 'Current Members'
+        url = '/group/current_members/'
+        parent = 'group'
+        weight = 2
+
+        [[menu.main]]
+        name = 'Alumni'
+        url = '/group/alumni/'
+        parent = 'group'
+        weight = 3
+    
+    [[menu.main]]
+    name = 'News'
+    url = '/news/'
+    weight = 5
+
+    [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 6
+
+[markup.goldmark.parser.attribute]
+    block = true
+    title = true
+
+[params]
+    disabled_logo = true
+    logo_text = "Vijay Kumar Lab"
+
+    about_us = """
+    Vijay Kumar Lab<br>
+    <a href="https://www.me.upenn.edu/">Department of Mechanical Engineering and Applied Mechanics</a><br>
+    School of Engineering and Applied Science<br>
+    University of Pennsylvania<br>
+    Towne 107, 220 S. 33rd Street<br>
+    Philadelphia, PA 19104-6315<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    <a href="https://www.grasp.upenn.edu/">
+        <img src="/img/logo/UPenn-GRASP-Long-Logo-ko.png" alt="Penn SEAS GRASP" class="footer-logo">
+    </a>
+    """ 
+    
+    address = """
+    <strong>Vijay Kumar, Ph.D.</strong><br>
+    <a href="mailto:kumar@seas.upenn.edu">kumar@seas.upenn.edu</a><br>
+    215.898.7244<br>
+    &nbsp;<br>
+    <strong>Lab</strong><br>
+    <a href="https://www.grasp.upenn.edu/innovation-engagement/grasp-at-perch/">GRASP Laboratory at PERCH Pennovation Works</a><br>
+    3401 Grays Ferry<br>
+    Philadelphia, PA 19146<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    © {{COPYRIGHT_YEAR}} Vijay Kumar Lab. All rights reserved.<br>
+    Template by Bootstrapious.<br>
+    Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+    """ 
+
+    [params.features]
+        enable = true
+        cols = 4
+
+[module]
+    # Explicit mounts for the theme: declaring any mount replaces the
+    # theme's default mounts, so all needed dirs are listed. excludeFiles
+    # prunes unused theme demo/stock images from the build output.
+    [[module.imports]]
+        path = 'hugo-universal-theme'
+        [[module.imports.mounts]]
+            source = 'archetypes'
+            target = 'archetypes'
+        [[module.imports.mounts]]
+            source = 'i18n'
+            target = 'i18n'
+        [[module.imports.mounts]]
+            source = 'layouts'
+            target = 'layouts'
+        [[module.imports.mounts]]
+            source = 'static'
+            target = 'static'
+            # Prune unused theme demo/stock images with "! " negation globs
+            # (files setting, Hugo >=0.153). The space after "!" is
+            # required, and negations must precede the "**" catch-all.
+            files = [
+                "! img/banner2.jpg",
+                "! img/banner.jpg",
+                "! img/basketsquare.jpg",
+                "! img/blog2.jpg",
+                "! img/blog-avatar2.jpg",
+                "! img/blog-avatar.jpg",
+                "! img/blog.jpg",
+                "! img/blog-medium.jpg",
+                "! img/blog-recent-2.jpg",
+                "! img/blog-recent-3.jpg",
+                "! img/blog-recent.jpg",
+                "! img/detailbig1.jpg",
+                "! img/detailbig2.jpg",
+                "! img/detailbig3.jpg",
+                "! img/detailsquare2.jpg",
+                "! img/detailsquare3.jpg",
+                "! img/detailsquare.jpg",
+                "! img/homepage-slider.jpg",
+                "! img/home-try.jpg",
+                "! img/logo-small.png",
+                "! img/main-slider1.jpg",
+                "! img/main-slider2.jpg",
+                "! img/main-slider3.jpg",
+                "! img/main-slider4.jpg",
+                "! img/men.jpg",
+                "! img/page-1.jpg",
+                "! img/page-2.jpg",
+                "! img/page-3.jpg",
+                "! img/payment.png",
+                "! img/portfolio-1.jpg",
+                "! img/portfolio-2.jpg",
+                "! img/portfolio-3.jpg",
+                "! img/portfolio-4.jpg",
+                "! img/portfolio-5.jpg",
+                "! img/portfolio-6.jpg",
+                "! img/portfolio-7.jpg",
+                "! img/portfolio-8.jpg",
+                "! img/portfolio-9.jpg",
+                "! img/product1.jpg",
+                "! img/product2.jpg",
+                "! img/product3.jpg",
+                "! img/product4.jpg",
+                "! img/slide1.jpg",
+                "! img/slide2.jpg",
+                "! img/slide3.jpg",
+                "! img/slide4.jpg",
+                "! img/slide5.jpg",
+                "! img/slide6.jpg",
+                "! img/women.jpg",
+                "! img/home.jpg",
+                "! img/photogrid.jpg",
+                "! img/fixed-background-1.jpg",
+                "! img/fixed-background-2.jpg",
+                "! img/texture-violet.png",
+                "! img/logo.png",
+                "! img/apple-touch-icon.png",
+                "! img/favicon.ico",
+                "**"
+            ]

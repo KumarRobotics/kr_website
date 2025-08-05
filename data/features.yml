@@ -1,0 +1,27 @@
+- title: "Publications"
+  description: "Publications"
+  icon: "/img/icons/book.png"
+  size_limit_dim: "height"
+  weight: 1
+  url: "/research/publications/"
+
+- title: "GitHub"
+  description: "GitHub"
+  icon: "/img/icons/github.png"
+  size_limit_dim: "width"
+  weight: 2
+  url: "https://github.com/KumarRobotics"
+
+- title: "Vijay"
+  description: "Vijay Kumar"
+  icon: "/img/icons/user-tie.png"
+  size_limit_dim: "height"
+  weight: 3
+  url: "/group/vijay_kumar/"
+
+- title: "News"
+  description: "News"
+  icon: "/img/icons/newspaper.png"
+  size_limit_dim: "width"
+  weight: 4
+  url: "/news/"

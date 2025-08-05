@@ -1,0 +1,21 @@
+&nbsp;
+<article style="margin-bottom: 2rem; display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="{{ .Get "image" }}" alt="{{ .Get "title" }}" style="width: 150px; height: auto; border-radius: 6px;">
+  </div>
+  <div>
+    <p style="margin: 0 0 0.5rem;">{{ .Get "date" }}</p>
+    <h4 style="margin: 0 0 1rem;">{{ .Get "title" }}</h4>
+    <div style="margin: 0 0 1rem;">
+      {{ .Get "desc" | markdownify }}
+    </div>
+    {{ with .Get "url" }}
+      {{ if ne . "" }}
+        <p style="margin: 0;">
+          <a href="{{ . }}" target="_blank" rel="noopener" style="text-decoration: none;">Read more.</a>
+        </p>
+      {{ end }}
+    {{ end }}
+  </div>
+</article>
+

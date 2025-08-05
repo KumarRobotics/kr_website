@@ -1,0 +1,122 @@
+name: Deploy to Pantheon
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  workflow_dispatch:
+
+# Pantheon has a single code pipeline (Dev -> Test -> Live), so serialize
+# deployments to avoid two runs racing on the site repository.
+concurrency:
+  group: pantheon-deploy
+  cancel-in-progress: false
+
+# Required repository configuration (Settings > Secrets and variables > Actions):
+#   Variables: PANTHEON_SITE (machine name, e.g. kr-website),
+#              PANTHEON_SITE_ID (site UUID from the dashboard)
+#   Secrets:   PANTHEON_SSH_KEY (private SSH key authorized on the Pantheon account),
+#              TERMINUS_MACHINE_TOKEN (machine token with deploy permissions)
+env:
+  PANTHEON_SITE: ${{ vars.PANTHEON_SITE }}
+  PANTHEON_SITE_ID: ${{ vars.PANTHEON_SITE_ID }}
+  HUGO_VERSION: '0.165.0'
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    name: Build and deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check configuration
+        run: |
+          if [[ -z "$PANTHEON_SITE" || -z "$PANTHEON_SITE_ID" ]]; then
+            echo "::error::Set the PANTHEON_SITE and PANTHEON_SITE_ID repository variables."
+            exit 1
+          fi
+
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: Install Hugo (extended)
+        run: |
+          wget -q "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i "hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          hugo version
+
+      # Live builds use the production domain; dev-branch builds are
+      # previewed on the Test environment URL instead.
+      - name: Determine baseURL
+        run: |
+          if [[ "$GITHUB_REF_NAME" == "main" ]]; then
+            echo "BASE_URL=https://kumarrobotics.org/" >> "$GITHUB_ENV"
+          else
+            echo "BASE_URL=${TEST_BASE_URL:-https://test-${PANTHEON_SITE}.pantheonsite.io/}" >> "$GITHUB_ENV"
+          fi
+        env:
+          TEST_BASE_URL: ${{ vars.PANTHEON_TEST_BASE_URL }}
+
+      - name: Build site
+        run: hugo --minify --baseURL "$BASE_URL"
+
+      - name: Install Terminus
+        run: |
+          sudo curl -fsSL https://github.com/pantheon-systems/terminus/releases/latest/download/terminus.phar -o /usr/local/bin/terminus
+          sudo chmod +x /usr/local/bin/terminus
+          terminus --version
+
+      - name: Authenticate Terminus
+        run: terminus auth:login --machine-token="$TERMINUS_MACHINE_TOKEN"
+        env:
+          TERMINUS_MACHINE_TOKEN: ${{ secrets.TERMINUS_MACHINE_TOKEN }}
+
+      # Git pushes to Dev are rejected while the environment is in SFTP mode.
+      - name: Set Dev connection mode to Git
+        run: terminus connection:set "$PANTHEON_SITE.dev" git
+
+      - name: Set up SSH
+        env:
+          PANTHEON_SSH_KEY: ${{ secrets.PANTHEON_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "$PANTHEON_SSH_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -p 2222 "codeserver.dev.${PANTHEON_SITE_ID}.drush.in" >> ~/.ssh/known_hosts
+
+      # The Pantheon repo root is the docroot; push the build output to
+      # master, which updates the Dev environment.
+      - name: Push build to Pantheon Dev
+        run: |
+          REPO="ssh://codeserver.dev.${PANTHEON_SITE_ID}@codeserver.dev.${PANTHEON_SITE_ID}.drush.in:2222/~/repository.git"
+          # Shallow clone: we only need remote HEAD as the commit parent.
+          git clone --depth 1 "$REPO" /tmp/pantheon
+          rsync -a --delete --exclude='.git' public/ /tmp/pantheon/
+          cd /tmp/pantheon
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "Nothing to deploy (build is identical to Dev environment)."
+            echo "PUSHED=false" >> "$GITHUB_ENV"
+          else
+            git commit -m "Build of ${GITHUB_REF_NAME}@${GITHUB_SHA::7}"
+            git push origin master
+            echo "PUSHED=true" >> "$GITHUB_ENV"
+          fi
+
+      # Push to dev branch: promote the Dev build to Test.
+      - name: Deploy Dev to Test
+        if: env.PUSHED == 'true' && github.ref == 'refs/heads/dev'
+        run: terminus deploy "$PANTHEON_SITE.test" --cc --note="Deploy ${GITHUB_REF_NAME}@${GITHUB_SHA::7} via GitHub Actions"
+
+      # Push to main branch: promote through Test to Live.
+      - name: Deploy Dev to Test to Live
+        if: env.PUSHED == 'true' && github.ref == 'refs/heads/main'
+        run: |
+          terminus deploy "$PANTHEON_SITE.test" --cc --note="Deploy ${GITHUB_REF_NAME}@${GITHUB_SHA::7} via GitHub Actions"
+          terminus deploy "$PANTHEON_SITE.live" --cc --note="Deploy ${GITHUB_REF_NAME}@${GITHUB_SHA::7} via GitHub Actions"

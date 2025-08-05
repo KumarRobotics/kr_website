@@ -1,0 +1,8 @@
+
+{{ $src := .Get "src" }}
+{{ $text := .Get "text" }}
+
+<span style="display:inline-flex; align-items:center;">
+  <img src="{{ $src }}" alt="" style="height:2em; width:auto; margin-right:0.3em;">
+  <span>{{ $text | markdownify }}</span>
+</span>

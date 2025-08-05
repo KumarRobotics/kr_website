@@ -1,0 +1,157 @@
+/* Penn standard blue primary */
+:root {
+    --primary-accent:       #011f5b;
+    --navbar-border-top:    #990000;
+    --link-focus:           #63c7ff;
+    --navbar-focus:         #db2929;
+    --pub-flash:            #f2f2f2;
+    --footer-bg:            #2d2926;
+    --footer-text:          #f2f2f2;
+    --breadcrumbs-text:     #ffffff;
+    }
+
+/* landing page icon buttons */
+.box-simple {
+  min-height: 230px;
+  font-size: 1.6rem;
+}
+/* .box-simple p {
+  color: var(--footer-bg);
+} */
+
+.home-carousel { position: relative; z-index: 1; }
+.bar, footer { position: relative; z-index: 2; }
+
+.navbar ul.nav > li > a,
+.navbar ul.nav > li > a:hover,
+.navbar ul.nav > li > a:focus {
+    text-decoration: none !important;
+}
+.navbar ul.nav > li > a:hover {
+    color: var(--footer-text);
+}
+.navbar ul.dropdown-menu > li.active > a,
+.navbar ul.dropdown-menu > li.active > a:focus,
+.navbar ul.dropdown-menu > li.active > a:hover {
+    background: var(--navbar-focus) !important;
+    color: var(--breadcrumbs-text) !important;
+    text-decoration: none;
+}
+
+/* title bar */
+#heading-breadcrumbs {
+    padding: 0 0 !important;
+}
+#heading-breadcrumbs {
+    background-image: url("/img/breadcrumbs/circuit-board-seamless-pattern-motherboard-tile_8071-62204.jpg") !important;
+    background-size: auto;
+}
+#heading-breadcrumbs {
+    background-color: var(--primary-accent);
+    background-blend-mode: soft-light;
+}
+#heading-breadcrumbs h2 { color: var(--breadcrumbs-text); }
+
+/* carousel */
+.owl-theme .owl-controls .owl-page span {
+    background: var(--footer-bg) !important;
+}
+.owl-theme .owl-controls .owl-page.active span{
+    background: var(--navbar-border-top) !important;
+}
+.owl-theme .owl-controls .owl-page:hover span {
+    background: var(--link-focus) !important;
+}
+.homepage.owl-carousel {
+    margin-top: 60px;
+    margin-bottom: -10px;
+}
+
+/* carousel click to publications */
+html { scroll-behavior: smooth; }
+.anchor:target { scroll-margin-top: 80px; }
+p:has(> .anchor:target),
+li p:has(> .anchor:target) {
+    animation: pubFlash 2s ease-out;
+    animation-delay: 0.25s;
+}
+@keyframes pubFlash {
+    20%   { background-color: var(--pub-flash); }
+    100% { background-color: transparent; }
+}
+
+/* gallery popup */
+.popup { display: none; }
+.popup:target {
+  display: block;
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(0,0,0,0.75);
+}
+.popup__content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  max-height: 90vh;
+  max-width: 90vw;
+  overflow: auto;
+  background: #111111;
+  padding: 12px;
+  border-radius: 6px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.popup__close {
+  position: absolute;
+  top: 10px; right: 20px;
+  font-size: 36px;
+  color: #fff;
+  text-decoration: none;
+}
+/* body:has(.popup:target) {
+  overflow: hidden;
+} */
+
+#footer {
+  background: var(--footer-bg);
+  color: var(--footer-text);
+}
+.bright-links a {
+    color: var(--navbar-focus);
+}
+.bright-links a:hover {
+    color: var(--link-focus);
+}
+
+/* wide header for grasp logo */
+/* .navbar-brand {
+  float: left;
+  padding: 10px 15px;
+  font-size: 18px;
+  line-height: 20px;
+  height: 120px;
+}
+.navbar-brand img {
+  max-height: 100px;
+}
+@media (min-width: 768px) {
+    .navbar ul.nav > li > a {
+        padding-top: 48px;
+        padding-bottom: 48px;
+        line-height: 20px;
+    }
+} */
+ 
+h4, .h4 {
+    margin-top: 15px;
+    color: var(--footer-bg);
+}
+
+.footer-logo {
+    max-height: 100px;
+    width: auto;
+    max-width: 100%;
+}
