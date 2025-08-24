@@ -20,4 +20,17 @@ Researchers: Anish Bhattacharya, Anthony Bisulco, Austin Chen, Fernando Cladera,
 
 “Our work is supported by NSF, NVIDIA, Treeswift, Army Research Laboratory, NSF, Qualcomm, NASA, IARPA, USDA, ONR, Lockheed Martin and the Semiconductor Research Corporation.”
 
->### TODO: add sponsor logos
+{{< sponsorlogo-wrap >}}
+    {{< sponsorlogo src="/img/sponsor_logos/arl-300x191.png" alt="ARL" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/DARPA_Logo-300x154.png" alt="DARPA" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/intel_logo-300x199.png" alt="Intel" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/NASA_logo.svg_-300x251.png" alt="NASA" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/nsf-150x150.png" alt="NSF" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/Nvidia_logo.svg_-300x221.png" alt="NVIDIA" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/onr-300x137.png" alt="ONR" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/qualcomm-e1562351771392.png" alt="Qualcomm" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/SRC_logo_blue-300x119.png" alt="SRC" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/United_technologies_logo.svg_-300x75.png" alt="United Technologies" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/USDAcolor-300x116.png" alt="USDA" >}}
+    {{< sponsorlogo src="/img/sponsor_logos/LM-logo-768x209.png" alt="Lockheed" >}}
+{{< /sponsorlogo-wrap >}}
