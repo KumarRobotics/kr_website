@@ -2,9 +2,7 @@
 title: "News"
 ---
 
-<!-- >### TODO -->
-
->### TODO: get recent (late 2022 - present) news
+<!-- >### TODO: get recent (late 2022 - present) news -->
 
 {{< newsitem
   title="Fernando Cladera was the keynote speaker for ROSCon 2022."

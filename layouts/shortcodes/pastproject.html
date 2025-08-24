@@ -1,0 +1,10 @@
+
+<article style="margin-bottom: 2rem; display: flex; gap: 1rem; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+    <img src="{{ .Get "image" }}" alt="Project image" style="width: 150px; height: auto; border-radius: 6px;">
+  </div>
+  <div style="line-height: 1.5;">
+    {{ .Inner | markdownify }}
+  </div>
+</article>
+
