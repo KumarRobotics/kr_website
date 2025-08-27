@@ -100,6 +100,7 @@ theme = 'hugo-universal-theme'
 
 [params]
     logo = 'img/penn_logo_blue.png'
+    logo_small = 'img/penn_logo_blue.png'
 
     about_us = """
     Vijay Kumar Lab<br>
