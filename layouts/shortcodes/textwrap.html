@@ -1,0 +1,11 @@
+
+<article style="margin-bottom: 2rem; overflow: hidden;">
+  <img 
+    src="{{ .Get "image" }}" 
+    alt="{{ .Get "alt" }}" 
+    style="float: left; max-width: 400px; height: auto; margin: 0 3rem 1rem 0;"
+  >
+  <div style="line-height: 1.5;">
+    {{ .Inner | markdownify }}
+  </div>
+</article>
