@@ -47,7 +47,7 @@ Graduate students: Contact the Graduate Group Chair or the Department Office for
 
 ### Driving and parking for visitors
 
-If at all possible take a cab from the airport or walk over from the 30th Street Station (12 minute walk). If you must drive, look at these [directions](http://www.grasp.upenn.edu/contact/by-car.html) and [information for parking your car](http://www.grasp.upenn.edu/contact/directions/parking).
+If at all possible take a cab from the airport or walk over from the 30th Street Station (12 minute walk). More travel information can be found [here](https://www.grasp.upenn.edu/innovation-engagement/grasp-at-perch/travel-information/).
 
 &nbsp;
 
@@ -79,23 +79,16 @@ Philadelphia, Pennsylvania 19104
 (215) 282-5000  
 1628 Chestnut Street  
 Philadelphia, PA 19103   
-[website](http://www.clubquarters.com/loc_philadelphia.aspx)  <!-- **TODO: fix link**   -->
-
-**The Latham Hotel**  
-(215) 563-7474  
-Toll-free: 1-877-LATHAM1  
-135 South 17th Street  
-Philadelphia, PA 19103  
-[website](http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1231)  <!-- **TODO: fix link**   -->  
+[website](https://www.clubquartershotels.com/philadelphia/rittenhouse-square?utm_source=B2C&utm_medium=Google&utm_campaign=GoogleListing)
 
 **The Westin Philadelphia**  
 (215) 563-1600  
 99 South 17th Street  
 Philadelphia, PA  
-[website](http://www.starwoodhotels.com/westin/property/overview/index.html?propertyID=1231)  <!-- **TODO: fix link**   -->  
+[website](https://www.marriott.com/en-us/hotels/phlwi-the-westin-philadelphia/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0)
 
 **Radisson Plaza-Warwick Philadelphia**  
 (215) 735-6000  
 220 South 17th Street  
 Philadelphia, PA  
-[website](http://www.radisson.com/hotels/paphily)  
+[website](https://www.warwickrittenhouse.com)  

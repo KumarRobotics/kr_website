@@ -13,19 +13,19 @@ Spring 2014	        <a href="https://alliance.seas.upenn.edu/~meam620/wiki/index
 
 Spring 2011	        <a href="http://www.seas.upenn.edu/~meam620">MEAM 620: Advanced Robotics</a>  
 
-Spring 2011	        <a href="http://www.seas.upenn.edu/~eas299">EAS 299: Engineering Research: Preparation, Approach and Methodology</a>  
+Spring 2011	        EAS 299: Engineering Research: Preparation, Approach and Methodology  
 
-Fall 2010	        <a href="http://www.seas.upenn.edu/~meam535">MEAM 535: Advanced Dynamics</a>  
+Fall 2010	        MEAM 535: Advanced Dynamics  
 
-Spring 2010	        <a href="http://www.seas.upenn.edu/~eas299">EAS 299: Engineering Research: Preparation, Approach and Methodology</a>  
+Spring 2010	        EAS 299: Engineering Research: Preparation, Approach and Methodology  
 
-Fall 2009	        <a href="http://www.seas.upenn.edu/~meam535">MEAM 535: Advanced Dynamics</a>  
+Fall 2009	        MEAM 535: Advanced Dynamics  
 
 Spring 2009	        MEAM 211: Dynamics  
 
-Fall 2008	        <a href="http://www.seas.upenn.edu/~meam535">MEAM 535: Advanced Dynamics</a>  
+Fall 2008	        MEAM 535: Advanced Dynamics  
 
-July 2008	        <a href="http://www.seas.upenn.edu/~robo2008">Robotics Summer School</a>  
+July 2008	        Robotics Summer School  
 
 Spring 2008	        <a href="http://www.seas.upenn.edu/~meam620">MEAM 620: Advanced Robotics</a>  
 

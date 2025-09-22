@@ -42,11 +42,11 @@ title: "Alumni"
 *Current Position:* Software Engineer, Waymo  
 *Thesis Title:* Motion Planning for Micro Aerial Vehicles  
 
-[**Denise Wong**](https://exyntechnologies.com/team/denise-wong-ph-d/) (2016)  
+**Denise Wong** (2016)  
 *Current Position:* Robotics Engineer, Exyn Technologies Inc  
 *Thesis Title:* Actuation, Sensing and Control for Micro Bio Robots  
 
-[**Justin Thomas**](https://exyntechnologies.com/team/justin-thomas-ph-d/) (2016)  
+[**Justin Thomas**](https://www.exyn.com/about/team) (2016)  
 *Current Position:* Robotics Engineer, Exyn Technologies Inc  
 *Thesis Title:* Grasping, Perching, and Visual Servoing for Micro Aerial Vehicles  
 
@@ -54,7 +54,7 @@ title: "Alumni"
 *Current Position:* Google  
 *Thesis Title:* Information-theoretic active perception for multi-robot teams  
 
-[**Philip Dames**](http://www.seas.upenn.edu/~pdames/) (2015)  
+**Philip Dames** (2015)  
 *Current Position:* Assistant Professor, Temple University  
 *Thesis Title:* Multi-Robot Active Information Gathering Using Random Finite Sets.  
 
@@ -72,20 +72,20 @@ title: "Alumni"
 [**Soonkyum Kim**](http://www.ri.cmu.edu/person.html?person_id=3206) (2013)  
 *Current Position:* Postdoctoral Fellow, CMU.  
 
-[**Daniel Mellinger**](http://www.seas.upenn.edu/~dmel/) (2012)  
+[**Daniel Mellinger**](https://www.grasp.upenn.edu/people/daniel-mellinger/) (2012)  
 *Current Position:* Co-President, KMel Robotics  
 
-[**Quentin Lindsey**](http://www.linkedin.com/pub/quentin-lindsey/43/935/626) (2012)  
+[**Quentin Lindsey**](https://www.linkedin.com/in/quentin-lindsey-phd/) (2012)  
 *Current Position:* Aeronvironment Inc.  
 
-[**Subhrajit Bhattacharya**](http://www.seas.upenn.edu/~subhrabh/index.html) (2012)  
+[**Subhrajit Bhattacharya**](https://www.grasp.upenn.edu/people/subhrajit-bhattacharya/) (2012)  
 *Current Position:* Lehigh University  
 *Thesis Title:* Topological and Geometric Techniques in Graph Search-Based Robot Planning.  
 
 **Jonathan Fink** (2011)  
 *Current Position:* Army Research Laboratory.  
 
-[**Nora Ayanian**](http://www-bcf.usc.edu/~ayanian/) (2011)  
+[**Nora Ayanian**](https://viterbi.usc.edu/directory/faculty/Ayanian/Nora) (2011)  
 *Current Position:* Assistant Professor, USC.  
 
 **Ethan Stump** (2010)  
@@ -94,7 +94,7 @@ title: "Alumni"
 **Mahmut Selman Sakar** (2010)  
 *Current Position:* Postdoctoral Fellow, MIT.  
 
-[**Spring Berman**](http://faculty.engineering.asu.edu/acs/?page_id=108) (2010)  
+[**Spring Berman**](https://faculty.engineering.asu.edu/acs/person/spring-berman) (2010)  
 *Current Position:* Postdoctoral Fellow, Harvard University.  
 
 **David Cappelleri** (2009)  
@@ -103,7 +103,7 @@ title: "Alumni"
 **Luciano Pimenta** (2009)  
 *Current Position:* Assistant Professor, Federal University of Mineas Gerais, Belo Horizonte, Brazil.  
 
-[**Nathan Michael**](http://fling.seas.upenn.edu/~nmichael/) (2009)  
+**Nathan Michael** (2009)  
 *Current Position:* Research Assistant Professor, University of Pennsylvania.  
 
 **Ani Hsieh** (2007)  
@@ -134,7 +134,7 @@ title: "Alumni"
 *Current Position:* Currently Asst. Prof., Boston University.  
 *Thesis Title:* Geometric Methods for Multirobot Planning and Control  
 
-[**Joel Esposito**](http://www.usna.edu/Users/weapsys/esposito/http://www.usna.edu/Users/weapsys/esposito/) (2002)  
+[**Joel Esposito**](https://www.usna.edu/WRC/faculty/profiles/esposito.php) (2002)  
 *Current Position:* Associate Professor, United States Naval Academy.  
 *Thesis Title:* Simulation and Control of Hybrid Systems with Applications to Mobile Robotics  
 
@@ -150,7 +150,7 @@ title: "Alumni"
 *Current Position:* Assoc. Prof., Mechanical Engineering, Univ. of Maryland.  
 *Thesis Title:* Nonholonomic Motion Planning for Multiple Mobile Manipulators  
 
-[**Venkat Krovi**](http://www.eng.buffalo.edu/~vkrovi/) (1998)  
+**Venkat Krovi** (1998)  
 *Current Position:* Associate Professor, SUNY Buffalo.  
 *Thesis Title:* Design and Virtual Prototyping of User Customized Assistive Devices  
 
@@ -170,7 +170,7 @@ title: "Alumni"
 *Current Position:* Assistant Professor, King Fahd University, Saudi Arabia.  
 *Thesis Title:* Kinematics of Head Movements in Paraplegics and Interaction with Robot Manipulators  
 
-[**Nilanjan Sarkar**](http://frontweb.vuse.vanderbilt.edu/vuse_web/directory/facultybio.asp?FacultyID=383) (1993)  
+[**Nilanjan Sarkar**](https://lab.vanderbilt.edu/rasl/person/director/) (1993)  
 *Current Position:* Associate Professor, Vanderbilt University.  
 *Thesis Title:* Control of Mechanical Systems with Rolling Contacts  
 
@@ -223,7 +223,7 @@ title: "Alumni"
 
 **Avi Cohen** (2018)  
 
-[**Giuseppe Loianno**](https://engineering.nyu.edu/faculty/giuseppe-loianno) (2018)  
+**Giuseppe Loianno** (2018)  
 *Current Position:* Assistant Professor, NYU Tandon School of Engineering  
 
 [**Jnaneshwar Das**](https://isearch.asu.edu/profile/3327973) (2018)  
@@ -236,19 +236,19 @@ title: "Alumni"
 
 **Jimmy Paulos** (2017)  
 
-[**Konstantinos Karydis**](https://sites.google.com/site/kkaryd/) (2015-2017)  
+**Konstantinos Karydis** (2015-2017)  
 *Current Position:* Assistant Professor, UC Riverside  
 *Thesis Title:* A Data-Driven Hierarchical Framework for Planning, Navigation, and Control of Uncertain Systems: Applications to Miniature Legged Robots  
 
-[**Nikolay A. Atanasov**](http://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=409) (2015-2017)  
+**Nikolay A. Atanasov** (2015-2017)  
 *Current Position:* Assistant Professor, UC San Diego  
 
-[**Philip Dames**](http://www.seas.upenn.edu/~pdames/) (2015-2016)  
+**Philip Dames** (2015-2016)  
 *Current Position:* Assistant Professor, Temple University  
 *Thesis Title:* Multi-Robot Active Information Gathering Using Random Finite Sets.  
 
-[**Giuseppe Loianno**](http://wpage.unina.it/giuseppe.loianno/) (2014-2015)  
-*Current Position:* Research Scientist  
+<!-- **Giuseppe Loianno** (2014-2015)  
+*Current Position:* Research Scientist   -->
 
 [**Jun Seo**](http://www.seas.upenn.edu/~juse/) (2014-2015)  
 *Current Position:* Assistant Professor, Hong Kong University of Science and Technology  
@@ -258,15 +258,15 @@ title: "Alumni"
 *Current Position:* Assistant Professor, Virginia Tech  
 *Thesis Title:* Placement and Motion Planning Algorithms for Robotic Sensing Systems  
 
-[**Mihail Pivtoraiko**](http://www.seas.upenn.edu/~mihailp/) (2013-2014)  
+[**Mihail Pivtoraiko**](https://www.grasp.upenn.edu/people/mihail-pivtoraiko/) (2013-2014)  
 
 **Douglas Macheret** (2013)  
 
-[**Subhrajit Bhattacharya**](http://www.seas.upenn.edu/~subhrabh/index.html) (2012-2016)  
+**Subhrajit Bhattacharya** (2012-2016)  
 *Current Position:* Lehigh University  
 *Thesis Title:* Topological and Geometric Techniques in Graph Search-Based Robot Planning.  
 
-[**Koushil Sreenath**](http://www.cmu.edu/me/people/koushil-sreenath.html) (2012-2013)  
+**Koushil Sreenath** (2012-2013)  
 *Current Position:* Assistant Professor, CMU.  
 
 **Qimi Jiang** (2009-2011)  
@@ -289,7 +289,7 @@ title: "Alumni"
 **Adam Halasz** (2004-2006)  
 *Current Position:* Asst. Prof., University of West Virginia  
 
-[**Ben Grocholsky**](http://www.ri.cmu.edu/people/grocholsky_benjamin.html) (2003-2006)  
+**Ben Grocholsky** (2003-2006)  
 *Current Position:* Research Scientist, Carnegie Mellon University  
 
 [**Luiz Chaimowicz**](http://homepages.dcc.ufmg.br/~chaimo/) (2003-2005)  
@@ -315,13 +315,13 @@ title: "Alumni"
 [**John Wright**](http://sites.millersville.edu/jwright/) (1999)  
 *Current Position:* Assoc. Prof., Millersville University of Pennsylvania  
 
-[**Greg Grudic**](http://www.cs.colorado.edu/~grudic/) (1998-2001)  
+**Greg Grudic** (1998-2001)  
 *Current Position:* Asst. Prof., Computer Science, University of Colorado at Boulder  
 
 **Jean-Marc Vezien** (1996-1998)  
 *Current Position:* Currently at INRIA, France  
 
-[**Herman Bruyninckx**](http://people.mech.kuleuven.be/~bruyninc/) (1996-1997)  
+**Herman Bruyninckx** (1996-1997)  
 *Current Position:* Currently on the faculty of the Katholik University, Leuven, Belgium  
 
 **Elan Henis** (1992-1993)  
@@ -357,7 +357,7 @@ title: "Alumni"
 
 **Fred Heger** (2004)  
 
-[**William Yeoh**](http://www.cs.nmsu.edu/~wyeoh/) (2004)  
+**William Yeoh** (2004)  
 
 **Robert Breslawski** (1999)  
 *Thesis Title:* Articulated Wheeled and Legged Mobility System for Uneven Terrain  
@@ -368,7 +368,7 @@ title: "Alumni"
 **Milos Zefran** (1995)  
 *Thesis Title:* Numerical Techniques for Time Optimal Robot Control  
 
-[**Venkat Krovi**](http://www.eng.buffalo.edu/~vkrovi/) (1995)  
+**Venkat Krovi** (1995)  
 *Thesis Title:* Modeling and Control of a Hybrid Locomotion System  
 
 **Greg Garvin** (1994)  

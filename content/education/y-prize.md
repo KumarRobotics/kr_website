@@ -25,7 +25,7 @@ In 2014, the focus of the competition shifted from robotics to nanotechnology. C
 
 **2013-2014 Y-Prize: Global Challenge**  
 
-In 2013, the contest went global by partnering with the crowdsourcing idea platform [Marblar](http://www.marblar.com/) <!-- **TODO: fix link** -->. In the first phase of the competition, participants were asked to submit novel application ideas through the Marblar website. In the second phase of the competition, Penn students formed teams around ideas on Marblar or new ideas and compete for a chance to win $5,000 and the opportunity to pitch their idea to IP Group. The winning team, TRHex, proposed an educational robotics platform, based on technology from Dr. Daniel Koditschek’s Lab, for use in middle and high school classroom.
+In 2013, the contest went global by partnering with the crowdsourcing idea platform Marblar. In the first phase of the competition, participants were asked to submit novel application ideas through the Marblar website. In the second phase of the competition, Penn students formed teams around ideas on Marblar or new ideas and compete for a chance to win $5,000 and the opportunity to pitch their idea to IP Group. The winning team, TRHex, proposed an educational robotics platform, based on technology from Dr. Daniel Koditschek’s Lab, for use in middle and high school classroom.
 
 {{< /textwrap >}}
 

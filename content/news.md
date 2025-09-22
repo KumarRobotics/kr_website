@@ -17,7 +17,7 @@ title: "News"
   date="Jan 31, 2022"
   desc="Congratulations to Ian Miller, Laura Jarin-Lipschitz, Xu Liu, Siddarth Mayya, Daniel Mox, Senthil Kumar, Yuezhan Tao, Dinesh Thakur, Walker Gosrich, and Lifeng Zhou, as well as lab alums Rebecca Li, Jimmy Paulos, and Ke Sun for ICRA 2022 paper acceptances."
   image="/img/news/LOGO-ICRA-1.jpeg"
-  url="http://www.icra2022.org/"
+  url=""
 >}}
 
 {{< newsitem
@@ -25,7 +25,7 @@ title: "News"
   date="Jan 30, 2022"
   desc="Cognitive and Social Aspects of Human Multi-Robot Interaction"
   image="/img/news/IROS-2021.png"
-  url="https://www.kent.edu/cae/hmrs2021"
+  url=""
 >}}
 
 {{< newsitem
@@ -49,7 +49,7 @@ title: "News"
   date="Mar 31, 2021"
   desc=""
   image="/img/news/architecture.jpg"
-  url="https://www.modalai.com/blogs/blog/how-voxl-enables-swap-optimized-swarm-of-drones?platform=hootsuite&utm_campaign=HSCampaign"
+  url="https://www.modalai.com/blogs/case-studies/how-voxl-enables-swap-optimized-swarm-of-drones"
 >}}
 
 {{< newsitem
@@ -73,7 +73,7 @@ title: "News"
   date="Oct 12, 2019"
   desc="Heartfelt congratulations to Vijay Kumar, selected recipient of the prestigious 2020 IEEE Robotics and Automation Technical Field Award for “Contributions to cooperative robotics; networked mobile manipulation systems, particularly unmanned aerial vehicles; and leadership in robotics research, policy, and education.” He will receive this award during the 2020 IEEE International Conference on Robotics and Automation (ICRA) in Paris, France on 31 May-4 June 2020."
   image="/img/news/DSC_3066_cropped-2-150x150.jpg"
-  url="https://www.ieee-ras.org/about-ras/latest-news/17-news-ras-homepage-latest-news/1523-2020-ieee-robotics-and-automation-technical-field-award-recipient-announced"
+  url=""
 >}}
 
 {{< newsitem
@@ -95,7 +95,7 @@ title: "News"
 {{< newsitem
   title="Venture Beat Feature: Quadcopter can Inspect Damaged Nuclear Reactors without Putting Workers at Risk"
   date="Apr 17, 2019"
-  desc="Inspecting damaged nuclear plants poses a unique challenge. Radiation inside one of the Fukushima Daiichi reactors was recorded at 73 sieverts, more than 7 times the fatal dose. (Ten sieverts would kill most people exposed to it within weeks.) That’s why researchers at the University of Pennsylvania’s GRASP Lab and New York University’s Tandon School of Engineering propose that [robots](https://venturebeat.com/category/ai/) undertake the job instead. In a [paper](https://arxiv.org/pdf/1903.06111.pdf) published on the preprint server Arxiv.org, they describe an autonomous quadcopter designed to inspect the interior of hazardous sites."
+  desc="Inspecting damaged nuclear plants poses a unique challenge. Radiation inside one of the Fukushima Daiichi reactors was recorded at 73 sieverts, more than 7 times the fatal dose. (Ten sieverts would kill most people exposed to it within weeks.) That’s why researchers at the University of Pennsylvania’s GRASP Lab and New York University’s Tandon School of Engineering propose that robots undertake the job instead. In a [paper](https://arxiv.org/pdf/1903.06111.pdf) published on the preprint server Arxiv.org, they describe an autonomous quadcopter designed to inspect the interior of hazardous sites."
   image="/img/news/Capture-5-150x150.png"
   url="https://venturebeat.com/2019/03/15/quadcopter-can-inspect-damaged-nuclear-reactors-without-putting-workers-at-risk/"
 >}}
@@ -103,9 +103,9 @@ title: "News"
 {{< newsitem
   title="Mox, Welde, and Jarin-Lipschitz: Three Kumar Lab Students Awarded Prestigious NSF Graduate Fellowship"
   date="Apr 11, 2019"
-  desc="Dan Mox, Jake Welde, and Laura Jarin-Lipschitz have all been accepted into the National Science Foundation’s Graduate Research Fellowship Program for 2019. Launched in 1952, the GRFP represents the oldest continuous investment in the nation’s science, technology, engineering and mathematics (STEM) workforce. As one of the most competitive scholastic programs in the U.S., it recruits high potential, early-career scientists and engineers, and supports their graduate research training. The three recipients are welcomed into good company as Google c0-founder Sergey Brin and former U.S. Energy Secretary Steven Chu, as well as dozens of Nobel laureates and hundreds of member of the U.S. National Academy of Sciences, are previous recipients of the award. One additional student, Ian Miller, received honorable mention."
+  desc="Dan Mox, Jake Welde, and Laura Jarin-Lipschitz have all been accepted into the [National Science Foundation’s Graduate Research Fellowship Program](https://www.nsfgrfp.org/) for 2019. Launched in 1952, the GRFP represents the oldest continuous investment in the nation’s science, technology, engineering and mathematics (STEM) workforce. As one of the most competitive scholastic programs in the U.S., it recruits high potential, early-career scientists and engineers, and supports their graduate research training. The three recipients are welcomed into good company as Google c0-founder Sergey Brin and former U.S. Energy Secretary Steven Chu, as well as dozens of Nobel laureates and hundreds of member of the U.S. National Academy of Sciences, are previous recipients of the award. One additional student, Ian Miller, received honorable mention."
   image="/img/news/NSF_logo.svg.png"
-  url="https://www.nsfgrfp.org/"
+  url=""
 >}}
 
 {{< newsitem
@@ -113,7 +113,7 @@ title: "News"
   date="Sep 17, 2018"
   desc="Loianno, who was affiliated with the University of Pennsylvania’s General Robotics, Automation, Sensing & Perception (GRASP) Lab before coming to Tandon, is engaged in developing increasingly small and more autonomous drones — with one basic challenge being that the smaller the unit, the more difficult it is to build in features that allow for autonomy related to agile navigation, transportation, and interaction with the environment."
   image="/img/news/loianno-150x150.jpg"
-  url="https://new.engineering.nyu.edu/news/meet-newest-members-nyu-tandon-faculty#Loianno"
+  url=""
 >}}
 
 {{< newsitem
@@ -121,7 +121,7 @@ title: "News"
   date="Aug 20, 2018"
   desc="Atanasov received his Ph.D. in electrical and systems engineering from the University of Pennsylvania in 2015. His work proposed sensing models that enable the use of context and semantic information in robot localization, mapping, and navigation and developed algorithms for active information acquisition using autonomous robot teams."
   image="/img/news/409.jpg"
-  url="https://jacobsschool.ucsd.edu/faculty/faculty_bios/index.sfe?fmp_recid=409"
+  url=""
 >}}
 
 {{< newsitem
@@ -129,7 +129,7 @@ title: "News"
   date="Aug 20, 2018"
   desc="“We are excited that Jnaneshwar Das, ‘JD,’ will be joining us this summer and that he will carry on a spirit of exploration and innovative engineering in Alberto’s tradition,” says school deputy director, Ramon Arrowsmith. “JD will bring his substantial and creative experience in robotic monitoring, machine learning, autonomous systems, and unmanned vehicles to advance our exploration education and research.”"
   image="/img/news/Untitled-attachment-01774-150x150.jpg"
-  url="https://sese.asu.edu/about/news/article/3367"
+  url=""
 >}}
 
 {{< newsitem
@@ -137,7 +137,7 @@ title: "News"
   date="Feb 13, 2018"
   desc="Philly.com highlights Vijay Kumar lab’s research on swarming technology, featuring researchers Aaron Weinstein and Giuseppe Loianno. “Vijay’s group has been one of the world leaders in this area,” says Larry Matthies, senior research scientist at NASA’s Jet Propulsion Laboratory."
   image="/img/news/dixon-366678-e-wp-content-uploads-2018-02-1002050_30f66874ef109f3-150x150.jpg"
-  url="http://www.philly.com/philly/health/drone-swarms-university-pennsylvania-engineers-qualcomm-20180213.html"
+  url=""
 >}}
 
 {{< newsitem
@@ -169,7 +169,7 @@ title: "News"
   date="Jun 10, 2017"
   desc="“Formations for Resilient Robot Teams,” authored by Luis Guerrero-Bonilla, Amanda Prorok, and Vijay Kumar named Finalist for Best Multi-Robot Systems paper at the 2017 IEEE International Conference on Robotics and Automation."
   image="/img/news/LuisAmanda2-150x150.png"
-  url="http://www.icra2017.org/conference/awards"
+  url=""
 >}}
 
 {{< newsitem
@@ -177,7 +177,7 @@ title: "News"
   date="May 02, 2017"
   desc="Former lab post-doc Kostas Karydis joins UC Riverside as Assistant Professor, Electrical and Computer Engineering."
   image="/img/news/karydis-150x150.png"
-  url="http://www.engr.ucr.edu/people/konstantinoskarydis.html"
+  url=""
 >}}
 
 {{< newsitem
@@ -185,7 +185,7 @@ title: "News"
   date="Mar 20, 2017"
   desc="Giuseppe Loianno, Shaojie Shen (Kumar lab alum and professor at the Hong Kong University of Science and Technology), and Vijay Kumar will host the first symposium in aerial robotics June 19-21, 2017.  The symposium will highlight advances in aerial robotics and provide opportunities to network with robotics and drone experts in academia, government, and industry.  Also included will be a day of hands-on tutorials for robotics students."
   image="/img/news/img1-150x150.jpg"
-  url="https://sites.google.com/a/seas.upenn.edu/aerialrobotics/"
+  url=""
 >}}
 
 {{< newsitem
@@ -201,7 +201,7 @@ title: "News"
   date="Mar 10, 2017"
   desc="Elizabeth Hunter is featured in The National Inventors Hall of Fame “Women in Innovation” exhibit honoring women inventors who embody “grit, hard work, know-how and persistence.” The exhibit is featured in the lobby of the United States Patent and Trademark Office in Washington, D.C."
   image="/img/news/Elizabeth-e1387487841936-150x150.jpg"
-  url="https://twitter.com/InventorsHOF/status/837437370081378306"
+  url=""
 >}}
 
 {{< newsitem
@@ -223,15 +223,15 @@ title: "News"
 {{< newsitem
   title="Vijay Kumar awarded 2017 IEEE RAS George Saridis Leadership Award in Robotics and Automation"
   date="Jan 12, 2017"
-  desc="The IEEE Robotics & Automation Society names Vijay Kumar the recipient of the **2017 George Saridis Leadership Award in Robotics and Automation** for his “*leadership in building institutions and in creating national and international programs to promote robotics and automation.*”  Prof. Kumar, along with the other RAS award recipients, will be honored during an award luncheon to be held at the IEEE International Conference on Robotics & Automation ([ICRA 2017](http://www.icra2017.org/)) on June 1 at the Sands Expo and Convention Centre, Singapore."
+  desc="The IEEE Robotics & Automation Society names Vijay Kumar the recipient of the **2017 George Saridis Leadership Award in Robotics and Automation** for his “*leadership in building institutions and in creating national and international programs to promote robotics and automation.*”  Prof. Kumar, along with the other RAS award recipients, will be honored during an award luncheon to be held at the IEEE International Conference on Robotics & Automation on June 1 at the Sands Expo and Convention Centre, Singapore."
   image="/img/news/Dean_Kumar_August_2015_cropped-300x240-150x150.jpg"
-  url="http://www.ieee-ras.org/about-ras/latest-news/863-2017-ras-award-recipients-announced"
+  url=""
 >}}
 
 {{< newsitem
   title="Yash Mulgaonkar, Luis Guerrero-Bonilla, Anurag Makineni, and Vijay Kumar are featured in IEEE Spectrum’s “The Secret to Small Drone Obstacle Avoidance Is to Just Crash Into Stuff”"
   date="Oct 31, 2016"
-  desc="Roboticists are putting a tremendous amount of time and effort into finding the right combination of sensors and algorithms that will keep their drones [from smashing](http://spectrum.ieee.org/automaton/robotics/drones/mit-drone-avoids-obstacles) [into things](http://spectrum.ieee.org/automaton/robotics/drones/skydio-camera-drone-autonomous-flying). It’s a very difficult problem: With a few exceptions, you’ve got small platforms that move fast and don’t have the payload capability for the kind of sensors or computers that you really need to do real-time avoidance of things like trees or power lines. And without obstacle avoidance, how will we ever have [drones that can deliver](http://spectrum.ieee.org/tag/delivery+drones) new athletic socks to our doorstep in 30 minutes or less?"
+  desc="Roboticists are putting a tremendous amount of time and effort into finding the right combination of sensors and algorithms that will keep their drones [from smashing](http://spectrum.ieee.org/automaton/robotics/drones/mit-drone-avoids-obstacles) [into things](http://spectrum.ieee.org/automaton/robotics/drones/skydio-camera-drone-autonomous-flying). It’s a very difficult problem: With a few exceptions, you’ve got small platforms that move fast and don’t have the payload capability for the kind of sensors or computers that you really need to do real-time avoidance of things like trees or power lines. And without obstacle avoidance, how will we ever have drones that can deliver new athletic socks to our doorstep in 30 minutes or less?"
   image="/img/news/MjgyNjEzMw-150x150.jpeg"
   url="http://spectrum.ieee.org/automaton/robotics/drones/the-secret-to-small-drone-obstacle-avoidance-is-to-just-crash-into-stuff"
 >}}
@@ -249,7 +249,7 @@ title: "News"
   date="Sep 15, 2016"
   desc="Former lab post-doc Nikolay Atanasov joins UCSD Jacobs School of Engineering as Assistant Professor, Electrical and Computer Engineering."
   image="/img/news/atanasov-150x150.png"
-  url="http://jacobsschool.ucsd.edu/news/news_releases/release.sfe?id=2022"
+  url=""
 >}}
 
 {{< newsitem
@@ -281,7 +281,7 @@ title: "News"
   date="Jul 21, 2016"
   desc="This workshop will focus on the systems’ challenges for small-scale and high speed navigation of aerial vehicles, where the size, weight and payload constraints only allow light-weight sensors like cameras, and the operating conditions of high speeds (20 m/s) require perception, state estimation, environment reconstruction, obstacle avoidance and planning algorithms over longer ranges and shorter time scales. This workshop will focus not only on the scientific foundations, but also the algorithmic and software design challenges, which arise in the settings of small-scale, high speed navigation in three-dimensional environments. The workshop will feature, in addition to contributed and invited talks, real-time demos provided both from academia and industry actively working in this field."
   image="/img/news/FLA_platform-150x150.png"
-  url="http://www.seas.upenn.edu/~loiannog/workshopIROS2016uav/"
+  url=""
 >}}
 
 {{< newsitem
@@ -289,7 +289,7 @@ title: "News"
   date="Jun 09, 2016"
   desc=""
   image="/img/news/pennovation.jpeg"
-  url="https://penncurrent.upenn.edu/news/pennovation-center-starting-to-hum-with-activity"
+  url=""
 >}}
 
 {{< newsitem
@@ -297,7 +297,7 @@ title: "News"
   date="May 24, 2016"
   desc=""
   image="/img/news/ICRA_STHLM_2016_RGB.png"
-  url="http://www.icra2016.org/conference/awards/"
+  url=""
 >}}
 
 {{< newsitem
@@ -305,7 +305,7 @@ title: "News"
   date="May 24, 2016"
   desc=""
   image="/img/news/ICRA_STHLM_2016_RGB.png"
-  url="http://www.icra2016.org/conference/awards/"
+  url=""
 >}}
 
 {{< newsitem
@@ -313,7 +313,7 @@ title: "News"
   date="May 11, 2016"
   desc="This tutorial provides an introduction to the theory and practice of aerial robots, with a mix of fundamentals and application. It will expose participants to the state of the art in robot design, mechanics, control, estimation, perception and planning."
   image="/img/news/outdoor_perch_seq-150x150.jpg"
-  url="http://mrsl.grasp.upenn.edu/loiannog/tutorial_ICRA2016/"
+  url=""
 >}}
 
 {{< newsitem
@@ -337,15 +337,15 @@ title: "News"
   date="Nov 13, 2015"
   desc="We present a method that distributes a swarm of heterogeneous robots among a set of tasks that require specialized capabilities in order to be completed. We model the system of heterogeneous robots as a community of species, where each species (robot type) is defined by the traits (capabilities) that it owns."
   image="/img/news/cropped-EAI-BICT-logo@1200px-1-199x64.png"
-  url="http://bionetics.org/2015/show/program-preliminary"
+  url=""
 >}}
 
 {{< newsitem
   title="Ed Steager and Denise Wong lead research at the intersection of synthetic biology and micro robotics"
   date="Nov 13, 2015"
-  desc="The University of Pennsylvania is participating in two National Science Foundation projects designed to advance cyber­physical systems with medical applications. Cyber­physical systems are built from and depend upon the seamless integration of computation and physical components. One project will combine teams of microrobots with synthetic cells to perform functions that may one day lead to tissue and organ regeneration. The other project will develop a “Cyberheart,” a virtual, patient­specific human heart model that can be used to improve and accelerate medical-device testing. NSF will support the projects with two five-year awards totaling $8.75 million. [View Video](https://www.kumarrobotics.org/video/1803/)"
+  desc="The University of Pennsylvania is participating in two National Science Foundation projects designed to advance cyber­physical systems with medical applications. Cyber­physical systems are built from and depend upon the seamless integration of computation and physical components. One project will combine teams of microrobots with synthetic cells to perform functions that may one day lead to tissue and organ regeneration. The other project will develop a “Cyberheart,” a virtual, patient­specific human heart model that can be used to improve and accelerate medical-device testing. NSF will support the projects with two five-year awards totaling $8.75 million."
   image="/img/news/EdandDenise-150x150.png"
-  url="http://www.upenn.edu/pennnews/news/penn-researchers-join-two-nsf-projects-medical-cyber-physical-systems"
+  url=""
 >}}
 
 {{< newsitem
@@ -353,7 +353,7 @@ title: "News"
   date="Nov 05, 2015"
   desc="The University of Pennsylvania’s [GRASP Laboratory](https://www.grasp.upenn.edu/) has received a three-year, $5.5 million grant from the Defense Advanced Research Project Agency to create new flying robots that are able to quickly and autonomously navigate unknown environments. These abilities would be invaluable in disaster situations where conditions are too dangerous for humans to inspect damage or search for trapped or injured people."
   image="/img/news/FLA-Quadrotors-150x150.png"
-  url="http://www.upenn.edu/pennnews/news/penn-s-grasp-lab-receives-55-million-fast-light-and-autonomous-flying-robots"
+  url=""
 >}}
 
 {{< newsitem
@@ -409,7 +409,7 @@ title: "News"
   date="May 12, 2015"
   desc="Fish, hawks, and microorganisms are inspiring a new generation of robots."
   image="/img/news/PhSciFest_MainRotator-1431439292314-150x150.jpg"
-  url="http://theinstitute.ieee.org/ieee-roundup/opinions/ieee-roundup/robotics-engineers-get-back-to-nature-at-the-philadelphia-science-festival-"
+  url=""
 >}}
 
 {{< newsitem
@@ -417,7 +417,7 @@ title: "News"
   date="May 08, 2015"
   desc="It’s Science Week on Talk Philly in conjunction with the Philadelphia Science Festival. Here to tell us more is Frederic Bertley, senior Vice President of Science and Education at the Franklin Institute and Justin Thomas and Yash Mulgaonkar from the University of Pennsylvania who will demonstrate today’s topic: robotics!"
   image="/img/news/Screen-Shot-2015-05-08-at-12.44.16-PM-150x150.png"
-  url="http://philadelphia.cbslocal.com/video/11441115-philadelphia-science-festival-experimenting-with-robotics/"
+  url=""
 >}}
 
 {{< newsitem
@@ -441,7 +441,7 @@ title: "News"
   date="Apr 09, 2015"
   desc="UPENN’s new quadcopter uses a smartphone for autonomous flight, employing only on-board hardware and vision algorithms—no GPS involved. The drone was built as a collaborative project between Qualcomm and a team of University of Pennsylvania researchers led by Vijay Kumar."
   image="/img/news/upenn-phone-drone-150x150.png"
-  url="http://spectrum.ieee.org/video/robotics/aerial-robots/this-drone-uses-a-smartphone-for-a-brain"
+  url=""
 >}}
 
 {{< newsitem
@@ -449,7 +449,7 @@ title: "News"
   date="Mar 02, 2015"
   desc="NPR’s “Science Friday” visited SEAS grad students **Elizabeth Beattie** and **Denise Wong** to profile their work in developing robots powered by microorganisms (Courtesy Penn News Today)."
   image="/img/news/elizabeth-and-denise-cyborg-bacteria-150x125.jpg"
-  url="http://sciencefriday.com/segment/02/27/2015/dawn-of-the-cyborg-bacteria.html"
+  url=""
 >}}
 
 {{< newsitem
@@ -457,7 +457,7 @@ title: "News"
   date="Feb 25, 2015"
   desc="In a small-but-significant addition to its budding interest in robotics, San Diego-based Qualcomm (NASDAQ: QCOM) has acquired KMel Robotics, a Philadelphia, PA-based startup that specializes in multi-rotor drones capable of coordinated, high-performance operations."
   image="/img/news/Qualcomm-Headquarters-in-San-Diego-220x146-150x146.jpg"
-  url="http://www.xconomy.com/san-diego/2015/02/10/qualcomm-buys-aerial-drone-startup-with-advanced-control-technology/"
+  url=""
 >}}
 
 {{< newsitem
@@ -477,7 +477,7 @@ title: "News"
 >}}
 
 {{< newsitem
-  title="Elizabeth Beattie is featured in Forbes’ “30 Under 30:Science” list"
+  title="Elizabeth Beattie is featured in Forbes’ “30 Under 30: Science” list"
   date="Jan 06, 2015"
   desc=""
   image="/img/news/Elizabeth-e1387487841936-150x150.jpg"
@@ -489,15 +489,15 @@ title: "News"
   date="Nov 03, 2014"
   desc=""
   image="/img/news/Screen-Shot-2014-11-03-at-7.56.12-AM-150x121.png"
-  url="http://www.hulu.com/watch/685262"
+  url=""
 >}}
 
 {{< newsitem
   title="Jun Seo and Matt Turpin are winners of the ICRA 2014 Best Automation Paper Award"
   date="Jun 06, 2014"
-  desc="Jun Seo and Matt Turpin are winners of the [ICRA 2014 Best Automation Paper Award](http://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper) with members of the [Modlab](http://modlabupenn.org/) for their paper “Self-Assembly of a Swarm of Autonomous Boats into Floating Structures.”"
+  desc="Jun Seo and Matt Turpin are winners of the ICRA 2014 Best Automation Paper Award with members of the [Modlab](http://modlabupenn.org/) for their paper “Self-Assembly of a Swarm of Autonomous Boats into Floating Structures.”"
   image="/img/news/ras-logo-150x56.png"
-  url="http://www.ieee-ras.org/awards-recognition/conference-awards/69-awards-recognition/society-awards/71-icra-best-automation-paper"
+  url=""
 >}}
 
 {{< newsitem
@@ -511,7 +511,7 @@ title: "News"
 {{< newsitem
   title="Kodlab robot technology wins the second Y-Prize Competition, organized by the Kumar lab with the Mack Institute."
   date="Apr 24, 2014"
-  desc="At the Finale on Monday, April 20th, student teams pitched groundbreaking ideas that utilize GRASP Lab technology. The pitches included agriculture robots that save crops from freezing, flying quadrotors that revolutionize the film and spots industry and a walking robot that teaches students about STEM. The Y-Prize competition, co-founded by Vijay Kumar, challenges students to develop novel applications for GRASP Lab robotics technology. More information about the competition and the winning team is available on the [Y-Prize website](www.yprize.upenn.edu)."
+  desc="At the Finale on Monday, April 20th, student teams pitched groundbreaking ideas that utilize GRASP Lab technology. The pitches included agriculture robots that save crops from freezing, flying quadrotors that revolutionize the film and spots industry and a walking robot that teaches students about STEM. The Y-Prize competition, co-founded by Vijay Kumar, challenges students to develop novel applications for GRASP Lab robotics technology. More information about the competition and the winning team is available on the [Y-Prize website](http://www.yprize.upenn.edu/)."
   image="/img/news/y-prize-logo.png"
   url="http://www.yprize.upenn.edu/"
 >}}
@@ -521,7 +521,7 @@ title: "News"
   date="Apr 01, 2014"
   desc=""
   image="/img/news/pcn1-150x62.jpg"
-  url="http://pcntv.com/tuesday-at-900-pm-drones-and-the-law/"
+  url=""
 >}}
 
 {{< newsitem
@@ -529,13 +529,13 @@ title: "News"
   date="Feb 12, 2014"
   desc="Kumar Lab members…Ben Charrow, Philip Dames, Rebecca Hayward, Jim Keller, Monroe Kennedy, Yash Mulgaonkar, Sarah Tang, Mike Watterson and Mickey Whitzer…served as key volunteers and judges at the 2014 Southeastern Pennsylvania FIRST LEGO League Championship that was held at the University of Pennsylvania on Saturday, February 1st. This event was comprised of over 40 middle school robotics teams, totaling about 400 children, from the greater Philadelphia area that participated in the day long event."
   image="/img/news/UniversityofPennsylvania_FullLogo_RGB-4_0.png"
-  url="http://www.upenn.edu/pennnews/current/2014-02-06/latest-news/lego-robotics-tournament-returns-penn"
+  url=""
 >}}
 
 {{< newsitem
   title="Vijay Kumar on WHYY Radio Times: Robotic roundup"
   date="Jan 16, 2014"
-  desc="Guests: Daniel Lee, Katherine Kuchenbecker, Vijay Kumar Robots can run, walk, climb, drive and fly.  They work in factories, in farm fields, in surgical operating rooms, and in our living rooms vacuuming the floors.  They patrol drug tunnels along the border, battle wildfires from the air, and fight enemy combatants abroad. Robots have been advancing quickly — so today we check on just how far they’ve come and what the future might look like.  Marty sits down with three leading roboticists from the University of Pennsylvania:  [DANIEL LEE](http://www.seas.upenn.edu/~ddlee/), a Professor of Electrical and Systems Engineering and Director of the GRASP Lab, [KATHERINE KUCHENBECKER](http://www.seas.upenn.edu/directory/profile.php?ID=50), Associate Professor of Mechanical Engineering and Applied Mechanics, and [VIJAY KUMAR](https://alliance.seas.upenn.edu/~kumar/wiki/index.php?n=Main.HomePage), UPS Foundation Professor in the School of Engineering and Applied Science and assistant director of robotics and cyber physical systems at the White house Office of Science and Technology Policy."
+  desc="Guests: Daniel Lee, Katherine Kuchenbecker, Vijay Kumar Robots can run, walk, climb, drive and fly.  They work in factories, in farm fields, in surgical operating rooms, and in our living rooms vacuuming the floors.  They patrol drug tunnels along the border, battle wildfires from the air, and fight enemy combatants abroad. Robots have been advancing quickly — so today we check on just how far they’ve come and what the future might look like.  Marty sits down with three leading roboticists from the University of Pennsylvania:  DANIEL LEE, a Professor of Electrical and Systems Engineering and Director of the GRASP Lab, KATHERINE KUCHENBECKER, Associate Professor of Mechanical Engineering and Applied Mechanics, and [VIJAY KUMAR](https://alliance.seas.upenn.edu/~kumar/wiki/index.php?n=Main.HomePage), UPS Foundation Professor in the School of Engineering and Applied Science and assistant director of robotics and cyber physical systems at the White house Office of Science and Technology Policy."
   image="/img/news/UniversityofPennsylvania_FullLogo_RGB-4_0.png"
   url="https://whyy.org/episodes/robotic-roundup/"
 >}}
@@ -545,7 +545,7 @@ title: "News"
   date="Dec 22, 2013"
   desc="Sixteen teams from around the world came together at Florida’s Homestead Miami Speedway, December 20-21, 2013 to participate in DARPA’s Robotics Challenge Trials. The Trials provide an important baseline on the current state of robotics today and their potential for future use in disaster response."
   image="/img/news/logo-darpa-robotics-150x150.jpg"
-  url="http://theroboticschallenge.org/"
+  url=""
 >}}
 
 {{< newsitem
@@ -569,7 +569,7 @@ title: "News"
   date="Oct 22, 2013"
   desc="The autonomous car (and plane, and swarm of flying robots) is coming. That much is clear. But what might be less clear to onlookers watching the rise of the unmanned vehicle is that there are very different types of autonomy in machines, according to three [PopMech Breakthrough Award](http://www.popularmechanics.com/technology/engineering/news/10-innovators-who-changed-the-world-in-2013?click=pp) winners. This afternoon at PM’s home in the Hearst Tower, our Senior News Editor Joe Pappalardo sat down with Joseph Chody, chief engineer for the X-47B unmanned combat air system; John Capp, director of global active safety electronics and innovation at General Motors; and Vijay Kumar, a University of Pennsylvania mechanical engineer who designs fleets of autonomous quadrotors that work together…"
   image="/img/news/bta-panel-3-de-150x150.jpg"
-  url="http://www.popularmechanics.com/how-to/blog/the-rise-of-the-autonomous-vehicles-16070850?click=main_sr"
+  url=""
 >}}
 
 {{< newsitem
@@ -577,7 +577,7 @@ title: "News"
   date="Oct 22, 2013"
   desc="Swarm Micro-UAVs: Vijay Kumar, Shaojie Shen, Matthew Turpin (University of Pennsylvania); Nathan Michael (Carnegie Mellon University); Daniel Mellinger and Alex Kushleyev (KMel Robotics)"
   image="/img/news/PopularMechanics-227x300.jpg"
-  url="http://www.popularmechanics.com/breakthrough-award-winners"
+  url=""
 >}}
 
 {{< newsitem
@@ -591,9 +591,9 @@ title: "News"
 {{< newsitem
   title="GRASP Faculty on the South by Southwest Interactive 2014 Panels…Katherine Kuchenbecker and Vijay Kumar"
   date="Oct 15, 2013"
-  desc="An Abundance of Creativity: 500+ Confirmed Sessions for the 2014 SXSW Interactive Festival Today, we announce the bulk of confirmed [sessions](http://sxsw.com/interactive/sessions/about) for the 2014 SXSW Interactive Festival. Almost all of these sessions come from proposals submitted by the online community via the [SXSW PanelPicker](http://sxsw.com/interactive/sessions/panelpicker). The [selection process](http://sxsw.com/interactive/news/2013/how-sxsw-panelpicker-selection-process-works) for these proposals mixes voting from the general online public, plus Advisory Board input as well as SXSW staff input. The breadth and width of these 500+ sessions reflects the marketplace of amazing ideas that comes together in Austin each March. Specific trends and themes that will be particularly important for the 2014 SXSW Interactive Festival include “[Privacy and Security](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#privacy),” “[Global Impact and Policy](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#global),” “[Design and Development](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#design),” “[Art, Science and Inspiration](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#art)” and “[Intelligent Future](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#future).” As in previous years, we continue to see lots of very strong interest in [Startup Village](http://sxsw.com/interactive/news/2013/interactive-programming-announcement#startupvillage) programming so look for even more international participation in this space in March 2014…[Read More](http://sxsw.com/interactive/news/2013/interactive-programming-announcement)…Dr. Katherine Kuchenbecker will be a panelist on “[When AR Meets the OR: Robotics & Augmented Reality in Surgery](http://sxsw.com/interactive/news/2013/interactive-programming-announcement)” under Health and Business. Dr. Vijay Kumar will be a panelist on “[Welcoming the Robot Workforce](http://panelpicker.sxsw.com/vote/20004)” under Intelligent Future."
+  desc="An Abundance of Creativity: 500+ Confirmed Sessions for the 2014 SXSW Interactive Festival Today, we announce the bulk of confirmed sessions for the 2014 SXSW Interactive Festival. Almost all of these sessions come from proposals submitted by the online community via the SXSW PanelPicker. The selection process for these proposals mixes voting from the general online public, plus Advisory Board input as well as SXSW staff input. The breadth and width of these 500+ sessions reflects the marketplace of amazing ideas that comes together in Austin each March. Specific trends and themes that will be particularly important for the 2014 SXSW Interactive Festival include “Privacy and Security,” “Design and Development,” “Art, Science and Inspiration” and “Intelligent Future.” As in previous years, we continue to see lots of very strong interest in Startup Village programming so look for even more international participation in this space in March 2014. Dr. Katherine Kuchenbecker will be a panelist on “When AR Meets the OR: Robotics & Augmented Reality in Surgery” under Health and Business. Dr. Vijay Kumar will be a panelist on “Welcoming the Robot Workforce” under Intelligent Future."
   image="/img/news/CNQ5u9GWgAAW4kt.png"
-  url="http://panelpicker.sxsw.com/vote/20004#sthash.jwiGxiMj.dpuf"
+  url=""
 >}}
 
 {{< newsitem
@@ -601,7 +601,7 @@ title: "News"
   date="Sep 30, 2013"
   desc="Last year, the GRASP lab at the University of Pennsylvania’s School of Engineering and Applied Science and the Wharton School’s Mack Institute helped take cutting-edge robots out of the lab and into the marketplace through the Y-Prize Competition. Now, they have now joined forces with crowdsourcing platform Marblar and intellectual property commercialization company IP Group to take the Y-Prize worldwide."
   image="/img/news/Nano-Quads-2-Kurtis-Sensenig-150x150.jpg"
-  url="http://www.upenn.edu/pennnews/news/penn-engineerings-grasp-lab-and-whartons-mack-institute-take-y-prize-global"
+  url=""
 >}}
 
 {{< newsitem
@@ -609,15 +609,15 @@ title: "News"
   date="Sep 01, 2013"
   desc=""
   image="/img/news/logo-nora-150x150.jpg"
-  url="http://www-bcf.usc.edu/~ayanian/"
+  url=""
 >}}
 
 {{< newsitem
   title="We The Geeks: “Robots” On The Whitehouse.gov"
   date="Aug 09, 2013"
-  desc="Join us on **Friday, August 9th, at 2:00 pm EDT for a “We the Geeks” Google+ Hangout on “Robots”** – where pioneering scientists will discuss how robots can help transform everything from school classrooms to the factory floor and operating rooms to the way we explore the Solar System. You’ll meet American inventors giving robots incredible new capabilities in manufacturing and medicine. You’ll also hear how the Obama Administration’s [National Robotics Initiative](http://www.whitehouse.gov/blog/2013/03/20/road-cutting-edge-robots) is accelerating innovations that will expand th"
+  desc="Join us on **Friday, August 9th, at 2:00 pm EDT for a “We the Geeks” Google+ Hangout on “Robots”** – where pioneering scientists will discuss how robots can help transform everything from school classrooms to the factory floor and operating rooms to the way we explore the Solar System. You’ll meet American inventors giving robots incredible new capabilities in manufacturing and medicine. You’ll also hear how the Obama Administration’s National Robotics Initiative is accelerating innovations that will expand th"
   image="/img/news/US-WhiteHouse-Logo.svg.png"
-  url="http://www.whitehouse.gov/blog/2013/08/06/we-geeks-robots"
+  url=""
 >}}
 
 {{< newsitem
@@ -625,13 +625,13 @@ title: "News"
   date="Aug 01, 2013"
   desc=""
   image="/img/news/Screen-Shot-2014-01-14-at-12.19.56-AM-1-150x150.jpg"
-  url="https://www.cmu.edu/me/people/koushil-sreenath.html"
+  url=""
 >}}
 
 {{< newsitem
   title="IDSA International Conference Preview: Dr. Vijay Kumar on Tiny Flying Robots and Whether or Not They’re Taking Over the World – Core77"
   date="Aug 01, 2013"
-  desc="The [IDSA International Conference](http://idsaconference.org/) is just under three weeks away, and if you have yet to make plans to be in Chicago from August 21–24, we strongly suggest you do so ASAP. As always, the [lineup of speakers](http://idsaconference.org/index.php/speakers) is pretty stacked, and while we’ve crossed paths with many of this year’s speakers over the years, the IDSA keeps it fresh with the likes of, say, Paralympian Blake Leeper. Similarly, we were interesed to see [Dr. Vijay Kumar](https://alliance.seas.upenn.edu/~kumar/wiki/index.php)‘s name among the presenters. I’d been curious about his work ever since the first video on “A Swarm of Nano Quadrotors” hit the web over a year and a half ago."
+  desc="The IDSA International Conference is just under three weeks away, and if you have yet to make plans to be in Chicago from August 21–24, we strongly suggest you do so ASAP. As always, the lineup of speakers is pretty stacked, and while we’ve crossed paths with many of this year’s speakers over the years, the IDSA keeps it fresh with the likes of, say, Paralympian Blake Leeper. Similarly, we were interesed to see [Dr. Vijay Kumar](https://alliance.seas.upenn.edu/~kumar/wiki/index.php)‘s name among the presenters. I’d been curious about his work ever since the first video on “A Swarm of Nano Quadrotors” hit the web over a year and a half ago."
   image="/img/news/Quadrotors-close-150x150.jpg"
   url="http://www.core77.com/blog/idsa/idsa_international_conference_preview_dr_vijay_kumar_on_tiny_flying_robots_and_whether_or_not_theyre_taking_over_the_world_25300.asp"
 >}}
@@ -665,7 +665,7 @@ title: "News"
   date="Apr 10, 2013"
   desc="Cheap and off-the-shelf technology make up the key ingredients in some of the Unmanned Aerial Vehicles (UAVs), or drones, under development at the University of Pennsylvania’s [General Robotics, Automation, Sensing and Perception Lab](https://www.grasp.upenn.edu/). Researchers at the “GRASP” lab are trying to develop inexpensive drone technology that could rescue people from life-threatening situations."
   image="/img/news/CNN_International_logo.svg.png"
-  url="http://money.cnn.com/2013/04/10/technology/innovation/cheap-drones/index.html?iid=HP_LN"
+  url=""
 >}}
 
 {{< newsitem
@@ -673,7 +673,7 @@ title: "News"
   date="Mar 29, 2013"
   desc=""
   image="/img/news/NSF_logo.svg.png"
-  url="http://haptics.seas.upenn.edu/index.php/main/news"
+  url=""
 >}}
 
 {{< newsitem
@@ -681,7 +681,7 @@ title: "News"
   date="Jan 14, 2013"
   desc="Making Stuff Wilder – premieres 7.50pm, Tuesday 14 January on PBS America (Sky 243 & Virgin Media 243)"
   image="/img/news/images.jpeg"
-  url="http://www.youtube.com/watch?v=OaDaaEEVDmY"
+  url=""
 >}}
 
 {{< newsitem
@@ -753,7 +753,7 @@ title: "News"
   date="Feb 24, 2011"
   desc="Discovery Channel – Daily Planet – February 24, 2011"
   image="/img/news/Discovery-Channel-Symbol.png"
-  url="http://watch.discoverychannel.ca/daily-planet/february-2011/daily-planet---february-24-2011/#clip423759"
+  url=""
 >}}
 
 {{< newsitem
@@ -761,6 +761,6 @@ title: "News"
   date="Jan 25, 2011"
   desc="Flying robots build dorm room shelves – The Colbert Report (watch 3 mins out)"
   image="/img/news/original.jpg"
-  url="http://www.colbertnation.com/the-colbert-report-videos/372154/january-25-2011/threatdown---radical-muslim-snacks--flying-robot-drones---coked-up-vacuums"
+  url=""
 >}}
 

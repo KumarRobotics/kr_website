@@ -12,7 +12,7 @@ title: "Current Members"
   pos="Postdoctoral researcher, CIS"
   desc="Saurav’s research focuses on developing theoretical foundations and algorithms for coordination, collaboration, and motion planning for mobile robots. His interests include graph neural networks, combinatorial optimization, and approximation algorithms for designing efficient, adaptive, and resilient systems with online decision-making capabilities. He received his Ph.D. in Computer Science from the University of North Carolina at Charlotte, where he introduced the generalized coverage problem for monitoring complex environments, developed efficient algorithms, and conducted experiments with UAVs and ground robots."
   image="/img/group/current/saurav_agarwal.jpg"
-  url="https://saurav.fyi/"
+  url=""
 >}}
 
 {{< groupitem
@@ -137,7 +137,7 @@ title: "Current Members"
   pos="PhD student, ESE"
   desc="Ian’s work revolves around enabling robotic systems to perceive the world in more human-like ways, as well as building on these human-like representations for higher levels of autonomy. He has a particular focus on system design and field robotics, and is especially interested in building robust systems of many robots that can operate in real-world conditions. He has a B.S. in Electrical and Computer Engineering, and a B.S. in Physics, both from Lafayette College."
   image="/img/group/current/ianimage-300x300.png"
-  url="http://iandouglasmiller.com/"
+  url=""
 >}}
 
 {{< groupitem
@@ -145,7 +145,7 @@ title: "Current Members"
   pos="PhD student, MEAM"
   desc="Daniel is interested in solving practical, fundamental challenges at the intersection of robotics and wireless systems using search-based planning, optimization and machine learning."
   image="/img/group/current/daniel_mox.jpg"
-  url="http://danmox.com/"
+  url=""
 >}}
 
 {{< groupitem
@@ -201,7 +201,7 @@ title: "Current Members"
   pos="PhD student, CIS"
   desc="Yuezhan is a PhD student studying Computer and Information Science under the supervision of Dr. Vijay Kumar. He is interested in active exploration and multi-robot collaborative mapping leveraging on-board sensing and computation power. Yuezhan completed his MSE in Computer and Information Science at UPenn. Before that, he got his BE in Computer Science and Engineering at the Chinese University of Hong Kong, Shenzhen."
   image="/img/group/current/yuezhan_tao.jpg"
-  url="https://sites.google.com/view/yuezhantao/home"
+  url=""
 >}}
 
 {{< groupitem
@@ -240,7 +240,7 @@ title: "Current Members"
   pos="Research Specialist"
   desc="Rahul received his MS in robotics in 2021. His interests lie in multi-robot path planning, controls, and novel machine learning applications in robotics."
   image="/img/group/current/bio_nopic-150x150-1.jpg"
-  url="https://sites.google.com/view/rahulzahroof"
+  url=""
 >}}
 
 {{< groupitem

@@ -41,7 +41,7 @@ Departments of [Mechanical Engineering & Applied Mechanics](http://www.me.upenn.
 
 **Recent Talks and Videos**
 
-[A recent TED talk](http://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate.html)  
+[A TED talk from 2012](https://www.ted.com/talks/vijay_kumar_robots_that_fly_and_cooperate)  
 
 [Quadrotors play the James Bond song](http://www.youtube.com/watch?feature=player_embedded&v=_sUeGC-8dyk)  
 
