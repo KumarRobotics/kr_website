@@ -109,6 +109,14 @@ title: "Current Members"
 >}}
 
 {{< groupitem
+  name="Beiming Li"
+  pos="PhD student, ESE"
+  desc="Beiming is pursuing his PhD in Electrical and Systems Engineering advised by Dr. Vijay Kumar and Dr. Alejandro Ribeiro. He is working at the intersection of reinforcement learning and multi-agent systems. He received a B.S in Computer Engineering from University of Michigan-Ann Arbor as well as a M.S.E in Robotics from University of Pennsylvania."
+  image="/img/group/current/beiming_li.jpg"
+  url=""
+>}}
+
+{{< groupitem
   name="Xu Liu"
   pos="PhD student, MEAM"
   desc="Xu is interested in developing long-range autonomous UAV navigation and multi-robot semantic mapping systems for large-scale, unstructured, cluttered, GPS-denied 3-D environments, and applying them to solve real-world problems such as precision agriculture and infrastructure inspection. He received the M.S.E. degree in Robotics from the University of Pennsylvania, Philadelphia, PA, USA, in 2019."
@@ -271,14 +279,6 @@ title: "Current Members"
   pos="MS Student, Robotics"
   desc="Harsh is interested in endowing robots with human like intelligence to plan and cooperate to complete tasks collectively and effectively. He obtained his B.E. in Mech. Eng. from the National University of Singapore."
   image="/img/group/current/harsh_goel_s.gif"
-  url=""
->}}
-
-{{< groupitem
-  name="Beiming Li"
-  pos="MS Student, Robotics"
-  desc="Beiming is interested in sensor fusion of time-of-flight camera and ultrasonic sensor for glass detection and robot navigation. Before joining Penn, he got his B.S. in Computer Engineering at the University of Michigan."
-  image="/img/group/current/beiming_li.jpg"
   url=""
 >}}
 
