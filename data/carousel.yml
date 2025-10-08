@@ -1,24 +1,34 @@
-- title: "Hazardous environment inspection with MAVs"
+- title: "DCIST-Project2"
   # description: ""
-  image: "img/carousel/MAVs-01.png"
+  image: "/img/carousel/750_9053.JPG"
   weight: 1
 
-- title: "Swarm of 250 gram Autonomous Drones"
+- title: "M3ED-IARPA"
   # description: "."
-  image: "img/carousel/Swarm-01.png"
+  image: "/img/carousel/static_semantic-fs8.png"
   weight: 2
 
-- title: "ModQuad: Flying Modular Robots can Self Assemble in Mid Air"
+- title: "M3ED-IARPA"
   # description: ""
-  image: "img/carousel/Modquad-01.png"
+  image: "/img/carousel/750_8000.JPG"
   weight: 3
 
-- title: "Soft Bio-Compatible Micro Robots"
+- title: "M3ED-IARPA"
   # description: ""
-  image: "img/carousel/Soft-Bio-Compatible-01.png"
+  image: "/img/carousel/segmentsai.png"
   weight: 4
 
-- title: "Precision Agriculture and Forestry"
+- title: "IoT4Ag-Project1"
   # description: ""
-  image: "img/carousel/Precision-Agriculture01.png"
+  image: "/img/carousel/Falcon.png"
   weight: 5
+
+- title: "DCIST-Project1"
+  # description: ""
+  image: "/img/carousel/Treescope-1.png"
+  weight: 6
+
+- title: "DCIST-Project1"
+  # description: ""
+  image: "/img/carousel/PXL_20220411_111917078.MP.jpg"
+  weight: 7

@@ -99,8 +99,16 @@ theme = 'hugo-universal-theme'
     weight = 6
 
 [params]
-    logo = 'img/penn_logo_blue.png'
-    logo_small = 'img/penn_logo_blue.png'
+    # disabled_logo = true
+    logo_text = "Vijay Kumar Lab"
+    logo = 'img/logo/kr_lab_logo_temp_large_v3.png'
+    logo_small = 'img/logo/kr_lab_logo_temp_large_v3.png'
+
+    # style = "blue"
+
+    # [params.topbar]
+    #     enable = true
+    #     text = "Kumar Lab"
 
     about_us = """
     Vijay Kumar Lab<br>
@@ -114,6 +122,7 @@ theme = 'hugo-universal-theme'
     address = """
     <strong>Vijay Kumar, Ph.D</strong><br>
     <a href="mailto:kumar@seas.upenn.edu">kumar@seas.upenn.edu</a><br>
+    &nbsp;<br>
     <strong>Lab</strong><br>
     <a href="https://www.grasp.upenn.edu/innovation-engagement/grasp-at-perch/">GRASP Laboratory at PERCH Pennovation Works</a><br>
     3401 Grays Ferry<br>
