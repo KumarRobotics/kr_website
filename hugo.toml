@@ -23,20 +23,20 @@ theme = 'hugo-universal-theme'
         weight = 1
 
         [[menu.main]]
-        name = 'Past Projects'
-        url = '/research/past_projects/'
+        name = 'Publications'
+        url = '/research/publications/'
         parent = 'research'
         weight = 2
 
         [[menu.main]]
-        name = 'Publications'
-        url = '/research/publications/'
+        name = 'Videos'
+        url = '/research/videos/'
         parent = 'research'
         weight = 3
 
         [[menu.main]]
-        name = 'Videos'
-        url = '/research/videos/'
+        name = 'Past Projects'
+        url = '/research/past_projects/'
         parent = 'research'
         weight = 4
 
@@ -71,7 +71,7 @@ theme = 'hugo-universal-theme'
     identifier = 'group'
 
         [[menu.main]]
-        name = 'Dr. Vijay Kumar'
+        name = 'Vijay Kumar'
         url = '/group/vijay_kumar/'
         parent = 'group'
         weight = 1
@@ -101,31 +101,38 @@ theme = 'hugo-universal-theme'
 [params]
     # disabled_logo = true
     logo_text = "Vijay Kumar Lab"
-    logo = 'img/logo/kr_lab_logo_temp_large_v3.png'
+    logo = 'img/logo/kr_lab_logo_temp_large_v3_transparent.png'
     logo_small = 'img/logo/kr_lab_logo_temp_large_v3.png'
-
-    # style = "blue"
-
-    # [params.topbar]
-    #     enable = true
-    #     text = "Kumar Lab"
 
     about_us = """
     Vijay Kumar Lab<br>
     <a href="https://www.me.upenn.edu/">Department of Mechanical Engineering and Applied Mechanics</a><br>
-    <a href="https://www.seas.upenn.edu/">School of Engineering and Applied Science</a><br>
+    School of Engineering and Applied Science<br>
     University of Pennsylvania<br>
     Towne 107, 220 S. 33rd Street<br>
-    Philadelphia, PA 19104-6315
+    Philadelphia, PA 19104-6315<br>
+    &nbsp;<br>
+    <a href="https://www.seas.upenn.edu">
+        <img src="/img/logo/penn_logo.png" alt="Penn SEAS" style="height:90px;">
+    </a>
     """ 
     
     address = """
-    <strong>Vijay Kumar, Ph.D</strong><br>
+    <strong>Vijay Kumar, Ph.D.</strong><br>
     <a href="mailto:kumar@seas.upenn.edu">kumar@seas.upenn.edu</a><br>
+    215.898.7244<br>
     &nbsp;<br>
     <strong>Lab</strong><br>
     <a href="https://www.grasp.upenn.edu/innovation-engagement/grasp-at-perch/">GRASP Laboratory at PERCH Pennovation Works</a><br>
     3401 Grays Ferry<br>
     Philadelphia, PA 19146<br>
+    &nbsp;<br>
+    &nbsp;<br>
+    © 2025 Vijay Kumar Lab. All rights reserved.<br>
+    Template by Bootstrapious.<br>
+    Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
     """ 
-    copyright = """© 2025 Vijay Kumar Lab. All rights reserved."""
+
+    [params.features]
+        enable = true
+        cols = 4

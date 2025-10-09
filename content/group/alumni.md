@@ -339,6 +339,9 @@ title: "Alumni"
 ### Masters Students
 ---
 
+[**Emily Paul**](https://www.linkedin.com/in/empaul/) (May 2025)  
+*Thesis Title:* Multi-Agent Reinforcement Learning with Reward Shaping for Coverage Control
+
 **Cedric de Crousaz** (May 2015)  
 
 [**Gareth Cross**](https://www.linkedin.com/in/crossg) (May 2015)  

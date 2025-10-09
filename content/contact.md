@@ -3,10 +3,9 @@ title: "Contact"
 ---
 
 <!-- >### TODO: use fontawesome icons -->
-
-215.898.7244  
-
+  
 [seasdean@seas.upenn.edu](seasdean@seas.upenn.edu)  
+215.898.7244  
 
 Department of Mechanical Engineering and Applied Mechanics  
 School of Engineering and Applied Science  

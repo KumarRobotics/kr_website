@@ -14,30 +14,26 @@
 
         {{ partial "nav.html" . }}
 
+        {{ .Scratch.Set "hideTitle" true }}
+        {{ partial "breadcrumbs.html" . }}
+        {{ .Scratch.Delete "hideTitle" }}
+
         {{ partial "carousel.html" . }}
         <!-- Welcome Section -->
         <section class="bar background-white">
           <div class="container">
             <div class="row text-center">
               <div class="col-md-10 col-md-offset-1">
-                <h3>Welcome</h3>
+                <h3>Welcome to Kumar Lab</h3>
                 <p style="text-align: left">
-                  Vijay Kumar is the Nemirovsky Family Dean of Penn Engineering with appointments in the <a href="http://www.me.upenn.edu/">Departments of Mechanical Engineering and Applied Mechanics</a>, <a href="http://www.cis.upenn.edu/">Computer and Information Science</a>, and <a href="https://www.ese.upenn.edu">Electrical and Systems Engineering</a> at the University of Pennsylvania.
+                  <a href="/group/current_members/">Our group</a> is a part of the <a href="https://www.grasp.upenn.edu/">GRASP Laboratory</a> and the <a href="http://www.me.upenn.edu/">Department of Mechanical Engineering and Applied Mechanics</a> at the University of Pennsylvania, led by Dean Vijay Kumar. 
+                  We work on creating autonomous ground and aerial robotic systems, designing bio-inspired algorithms for collective behaviors, and on robot swarms. 
+                  You can find more details about our research <a href="/research/current_projects/">here</a>.
+                  Many of our members have won best paper awards at conferences, and our <a href="/group/alumni/">alumni</a> are leaders in teaching, research, business and entrepreneurship.
                 </p>
                 <p style="text-align: left">
-                  <a href="https://www.kumarrobotics.org/current-members/">Kumar's group</a> works on creating autonomous ground and aerial robots, designing bio-inspired algorithms for collective behaviors, and on robot swarms. They have won many best paper awards at conferences, and <a href="https://www.kumarrobotics.org/alumni/">group alumni</a> are leaders in teaching, research, business and entrepreneurship.
-                </p>
-                <p style="text-align: left">
-                  Kumar is a fellow of <a href="https://www.asme.org/">ASME</a> and <a href="http://www.computer.org/portal/web/guest/home">IEEE</a> and has been elected to the <a href="https://www.nae.edu/">National Academy of Engineering</a>, <a href="https://www.amphilsoc.org/">American Philosophical Society</a>, and the <a href="https://www.amacad.org/">American Academy of Arts and Sciences</a>. He is the founder of <a href="https://www.exyn.com/">Exyn Technologies</a>, an advisor to <a href="https://www.treeswift.com/">Treeswift</a>, and serves on the board of <a href="https://werobotics.org/">WeRobotics</a> and <a href="http://www.o2micro.com/">O2Micro</a>.
-                </p>
-                <p style="text-align: left">
-                  Vijay Kumar has held many administrative positions in the School of Engineering and Applied Science, including director of the <a href="https://www.grasp.upenn.edu/">GRASP Laboratory</a>, chair of <a href="http://www.me.upenn.edu/">Mechanical Engineering and Applied Mechanics</a>, and the position of the Deputy Dean. He served as the assistant director of robotics and cyber physical systems at the White House Office of Science and Technology Policy.
-                </p>
-                <p style="text-align: left">
-                  More information about <a href="https://www.kumarrobotics.org/">Kumar’s research</a> can be found in his TED talks.
-                </p>
-                <p style="text-align: left">
-                  Click here for <a href="https://www.kumarrobotics.org/dr-vijay-kumar/">bio</a> and <a href="https://www.kumarrobotics.org/vijay-kumar-images/">images for download</a>.
+                  Vijay Kumar is the Nemirovsky Family Dean of Penn Engineering with appointments in the Departments of <a href="http://www.me.upenn.edu/">Mechanical Engineering and Applied Mechanics</a>, <a href="http://www.cis.upenn.edu/">Computer and Information Science</a>, and <a href="https://www.ese.upenn.edu">Electrical and Systems Engineering</a> at the University of Pennsylvania. 
+                  He is a fellow of <a href="https://www.asme.org/">ASME</a> and <a href="http://www.computer.org/portal/web/guest/home">IEEE</a> and has been elected to the <a href="https://www.nae.edu/">National Academy of Engineering</a>, <a href="https://www.amphilsoc.org/">American Philosophical Society</a>, and the <a href="https://www.amacad.org/">American Academy of Arts and Sciences</a>. He is the founder of <a href="https://www.exyn.com/">Exyn Technologies</a>, an advisor to <a href="https://www.treeswift.com/">Treeswift</a>, and serves on the board of <a href="https://werobotics.org/">WeRobotics</a> and <a href="http://www.o2micro.com/">O2Micro</a>.
                 </p>
               </div>
             </div>

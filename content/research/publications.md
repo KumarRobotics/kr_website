@@ -4,7 +4,7 @@ title: "Publications"
 
 <!-- >### TODO: scrape from profile (scholarly?) and batch format with bibtexparser -->
 
-See [Google Scholar](https://scholar.google.com/citations?hl=en&user=FUOEBDUAAAAJ&view_op=list_works&sortby=pubdate) for a complete list of publications.
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=FUOEBDUAAAAJ&view_op=list_works&sortby=pubdate) for a complete list of publications, and [GitHub](https://github.com/KumarRobotics) for project code.
 
 ## 2025
 
