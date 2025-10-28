@@ -2,33 +2,40 @@
   # description: ""
   image: "/img/carousel/750_9053.JPG"
   weight: 1
+  href: "/research/publications/#pub-evmapper"
 
 - title: "M3ED-IARPA"
-  # description: "."
+  # description: ""
   image: "/img/carousel/static_semantic-fs8.png"
   weight: 2
+  href: "/research/publications/#pub-m3ed"
 
 - title: "M3ED-IARPA"
   # description: ""
   image: "/img/carousel/750_8000.JPG"
   weight: 3
+  href: "/research/publications/#pub-m3ed"
 
 - title: "M3ED-IARPA"
   # description: ""
   image: "/img/carousel/segmentsai.png"
   weight: 4
+  href: "/research/publications/#pub-m3ed"
 
 - title: "IoT4Ag-Project1"
   # description: ""
   image: "/img/carousel/Falcon.png"
   weight: 5
+  href: "research/publications/#pub-large-scale"
 
 - title: "DCIST-Project1"
   # description: ""
   image: "/img/carousel/Treescope-1.png"
   weight: 6
+  href: "/research/publications/#pub-treescope"
 
 - title: "DCIST-Project1"
   # description: ""
   image: "/img/carousel/PXL_20220411_111917078.MP.jpg"
   weight: 7
+  href: "/research/publications/#pub-spomp"

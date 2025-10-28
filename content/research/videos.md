@@ -4,83 +4,121 @@ title: "Videos"
 
 <!-- {{< video src="/videos/kumarlab_planning.mp4" >}} -->
 
-{{< video id="5MMPV_ZKcbo" >}}
+{{< anchor "vid-rt-guide" >}} {{< video id="5MMPV_ZKcbo" >}}  
+[Paper](/research/publications/#pub-rt-guide)  
+&nbsp;
 
 ---
 
-{{< video id="WZa7MfmdaC4" >}}
+{{< anchor "vid-distilling" >}} {{< video id="WZa7MfmdaC4" >}}  
+[Paper](/research/publications/#pub-distilling)  
+&nbsp;
 
 ---
 
-{{< video id="u8SBrwAh7Uw" >}}
+{{< video id="u8SBrwAh7Uw" >}}  
+&nbsp;
 
 ---
 
-{{< video id="k7CI7-fgSXE" >}}
+{{< anchor "vid-towards-optimizing" >}} {{< video id="k7CI7-fgSXE" >}}  
+[Paper](/research/publications/#pub-towards-optimizing)  
+&nbsp;
 
 ---
 
-{{< video id="vjuLE1k0htA" >}}
+{{< anchor "vid-atlas" >}} {{< video id="vjuLE1k0htA" >}}  
+[Paper](/research/publications/#pub-atlas)  
+&nbsp;
 
 ---
 
-{{< video id="bKkoL8QzXGo" >}}
+{{< anchor "vid-monocular" >}}  {{< video id="bKkoL8QzXGo" >}}  
+[Paper](/research/publications/#pub-monocular)  
+&nbsp;
 
 ---
 
-{{< video id="AosGBe2uzxM" >}}
+{{< video id="AosGBe2uzxM" >}}  
+&nbsp;
 
 ---
 
-{{< video id="xgKBkeY-4ao" >}}
+{{< anchor "vid-spine" >}} {{< video id="xgKBkeY-4ao" >}}  
+[Paper](/research/publications/#pub-spine)  
+&nbsp;
 
 ---
 
-{{< video id="zL-DAghA0Wo" >}}
+{{< anchor "vid-vision-transform" >}} {{< video id="zL-DAghA0Wo" >}}  
+[Paper](/research/publications/#pub-vision-transform)  
+&nbsp;
 
 ---
 
-{{< video id="x6sZhWs9ZWQ" >}}
+{{< anchor "vid-agrinerf" >}} {{< video id="x6sZhWs9ZWQ" >}}  
+[Paper](/research/publications/#pub-agrinerf)  
+&nbsp;
 
 ---
 
-{{< video id="8mgCMnaMDdM" >}}
+{{< anchor "vid-evmapper" >}} {{< video id="8mgCMnaMDdM" >}}  
+[Paper](/research/publications/#pub-evmapper)  
+&nbsp;
 
 ---
 
-{{< video id="zzvhCXsdn7o" >}}
+{{< video id="zzvhCXsdn7o" >}}  
+&nbsp;
 
 ---
 
-{{< video id="uzHNjeqAk-0" >}}
+{{< anchor "vid-orchard-monitoring" >}} {{< video id="uzHNjeqAk-0" >}}  
+[Paper](/research/publications/#pub-orchard-monitoring)  
+&nbsp;
 
 ---
 
-{{< video id="Bx_q_11eOrg" >}}
+{{< video id="Bx_q_11eOrg" >}}  
+&nbsp;
 
 ---
 
-{{< video id="QMbkoTyKe-k" >}}
+{{< anchor "vid-yaw-param" >}} {{< video id="QMbkoTyKe-k" >}}  
+[Paper](/research/publications/#pub-yaw-param)  
+&nbsp;
 
 ---
 
-{{< video id="EZrnFSvap7g" >}}
+{{< anchor "vid-intent-estimation" >}} {{< video id="EZrnFSvap7g" >}}  
+[Paper](/research/publications/#pub-intent-estimation)  
+&nbsp;
 
 ---
 
-{{< video id="fu1GekAQCqo" >}}
+{{< anchor "vid-wind-flow" >}} {{< video id="fu1GekAQCqo" >}}  
+[Paper](/research/publications/#pub-wind-flow)  
+&nbsp;
 
 ---
 
-{{< video id="U9_q6C5YIgo" >}}
+{{< anchor "vid-yell" >}} {{< video id="U9_q6C5YIgo" >}}  
+[Paper](/research/publications/#pub-yell)  
+&nbsp;
 
 ---
 
-{{< video id="ieNYH40buBo" >}}
+{{< anchor "vid-spomp" >}} {{< video id="ieNYH40buBo" >}}  
+[Paper](/research/publications/#pub-spomp)  
+&nbsp;
 
 ---
 
-{{< video id="tA02dJz9ux8" >}}
+{{< anchor "vid-deep-learning" >}} {{< video id="tA02dJz9ux8" >}}  
+[Paper](/research/publications/#pub-deep-learning)  
+&nbsp;
+
+---
 
 
 &nbsp;

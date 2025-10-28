@@ -8,6 +8,7 @@
     --pagination-bg: #a7dbe5;
     --link-hover-bg: #2c8494;
     --navbar-focus: #80cbd9;
+    --pub-focus: #d0f3fa80;
     --dark-gray: #555555;
     --light-gray: #999999;
 }
@@ -65,3 +66,15 @@
     background: var(--navbar-focus);
 }
 
+/* carousel click to publications */
+html { scroll-behavior: smooth; }
+.anchor:target { scroll-margin-top: 80px; }
+p:has(> .anchor:target),
+li p:has(> .anchor:target) {
+    animation: pubFlash 2s ease-out;
+    animation-delay: 0.25s;
+}
+@keyframes pubFlash {
+    20%   { background-color: var(--pagination-bg); }
+    100% { background-color: transparent; }
+}

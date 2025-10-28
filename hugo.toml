@@ -98,6 +98,10 @@ theme = 'hugo-universal-theme'
     url = '/contact/'
     weight = 6
 
+[markup.goldmark.parser.attribute]
+    block = true
+    title = true
+
 [params]
     # disabled_logo = true
     logo_text = "Vijay Kumar Lab"
