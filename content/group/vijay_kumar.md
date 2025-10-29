@@ -2,16 +2,14 @@
 title: "Vijay Kumar"
 ---
 
-<!-- > **TODO: add fontawesome icons for X, linkedin** -->
-
-{{< textwrap image="/img/group/kumar-697x1024.jpg" alt="Vijay Kumar" >}}
+{{< textwrap image="/img/group/vijay/kumar-697x1024.jpg" alt="Vijay Kumar" >}}
 
 **Vijay Kumar, Ph.D.**  
 Professor and Nemirovsky Family Dean  
 [School of Engineering and Applied Science](http://www.seas.upenn.edu/)  
 [University of Pennsylvania](http://www.upenn.edu/)  
 
-[CV](https://www.kumarrobotics.org/wp-content/uploads/2016/07/VijayKumar_CV_July_2016.pdf) | [LinkedIn](https://www.linkedin.com/in/vijaykum/) | [X](https://x.com/vijay_r_kumar) | [Images for download](https://www.kumarrobotics.org/vijay-kumar-images/)  
+[CV](https://www.kumarrobotics.org/wp-content/uploads/2016/07/VijayKumar_CV_July_2016.pdf) | [LinkedIn](https://www.linkedin.com/in/vijaykum/) | [X](https://x.com/vijay_r_kumar)  
 
 &nbsp;
 
@@ -23,7 +21,13 @@ He has served on the editorial boards of the IEEE Transactions on Robotics and A
 
 {{< /textwrap >}}
 
-More information about [Vijay’s research](https://www.ted.com/speakers/vijay_kumar) can be found in his TED talks.
+More information about [Vijay’s research](https://www.ted.com/speakers/vijay_kumar) can be found in his TED talks.  
+
+{{< gallery-popup
+    id="vk-gallery"
+    images="/img/group/vijay/Dean_Kumar_Full_August_2015.jpg, /img/group/vijay/Kumar180.png, /img/group/vijay/japan2edited.jpg, /img/group/vijay/kumar-697x1024.jpg"
+    linktext="Images for download"
+>}}
 
 ---
 

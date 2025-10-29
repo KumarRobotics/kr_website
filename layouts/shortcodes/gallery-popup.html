@@ -1,0 +1,17 @@
+
+{{- $id := .Get "id" -}}
+{{- $images := split (.Get "images") "," -}}
+
+<a class="gallery-link" href="#{{ $id }}">{{ .Get "linktext" }}</a>
+
+<div id="{{ $id }}" class="popup">
+  <a class="popup__close" href="#" aria-label="Close">×</a>
+  <div class="popup__content">
+    {{- range $images }}
+      {{- $img := strings.TrimSpace . -}}
+      <a href="{{ $img }}" target="_blank">
+        <img src="{{ $img }}" alt="" loading="lazy">
+      </a>
+    {{- end }}
+  </div>
+</div>
