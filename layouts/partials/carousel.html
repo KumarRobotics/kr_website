@@ -1,45 +1,39 @@
 {{ if default true .Site.Params.CarouselHomepage.enable }}
 {{ if isset .Site.Data "carousel" }}
 {{ if gt (len .Site.Data.carousel) 0 }}
-<!-- <section> -->
-    <!-- <div class="home-carousel" style="background-image: none !important;"> -->
-        <!-- <div class="dark-mask"></div> -->
-        <div class="container">
-            <div class="homepage owl-carousel"
-                data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
-                data-slide-speed="{{ default 1200 .Site.Params.CarouselHomepage.slide_speed }}"
-                data-pagination-speed="{{ default 600 .Site.Params.CarouselHomepage.pagination_speed }}">
-                {{ range sort .Site.Data.carousel "weight" }}
-                <div class="item">
-                    {{ if .href }}
-                    <a href="{{ .href | relURL }}" title="{{ .title | safeHTML }}">
-                    {{ end }}
-                        <!-- <div class="row">
-                            <div class="col-sm-5 right">
-                                <h1>{{ .title | safeHTML }}</h1>
-                                {{ .description | safeHTML }}
-                            </div>
-                            <div class="col-sm-7">
-                                <img class="img-responsive" src="{{ .image }}" alt="">
-                            </div>
-                        </div> -->
-                        <div class="text-center"
-                            style="height:500px; display:flex; align-items:center; justify-content:center;">
+    <div class="container">
+        <div class="homepage owl-carousel"
+            data-autoplay="{{ default true .Site.Params.CarouselHomepage.auto_play }}"
+            data-slide-speed="{{ default 1200 .Site.Params.CarouselHomepage.slide_speed }}"
+            data-pagination-speed="{{ default 600 .Site.Params.CarouselHomepage.pagination_speed }}">
+
+            {{ range $i, $item := sort .Site.Data.carousel "weight" }}
+            <div class="item">
+                {{ if $item.href }}
+                <a href="{{ $item.href | relURL }}" title="{{ $item.title | safeHTML }}">
+                {{ end }}
+
+                    <div class="text-center"
+                        style="height:500px; display:flex; align-items:center; justify-content:center;">
+                        {{ $loading := cond (eq $i 0) "eager" "lazy" }}
+                        {{ $priority := cond (eq $i 0) "high" "low" }}
                         <img
-                            src="{{ .image }}"
+                            src="{{ $item.image }}"
                             alt=""
-                            style="max-height:100%; max-width:100%; width:auto; height:auto;"/>
-                        </div>
-                    {{ if .href }}
-                    </a>
-                    {{ end }}
-                </div>
+                            loading="{{ $loading }}"
+                            fetchpriority="{{ $priority }}"
+                            style="max-height:100%; max-width:100%; width:auto; height:auto;" />
+                    </div>
+
+                {{ if $item.href }}
+                </a>
                 {{ end }}
             </div>
-            <!-- /.project owl-slider -->
+            {{ end }}
+
         </div>
-    <!-- </div> -->
-<!-- </section> -->
+        <!-- /.project owl-slider -->
+    </div>
 {{ end }}
 {{ end }}
 {{ end }}
