@@ -66,6 +66,11 @@
     background: var(--navbar-focus);
 }
 
+.homepage.owl-carousel {
+    margin-top: 50px;
+    margin-bottom: -10px;
+}
+
 /* carousel click to publications */
 html { scroll-behavior: smooth; }
 .anchor:target { scroll-margin-top: 80px; }

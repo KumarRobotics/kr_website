@@ -14,10 +14,6 @@
 
         {{ partial "nav.html" . }}
 
-        {{ .Scratch.Set "hideTitle" true }}
-        {{ partial "breadcrumbs.html" . }}
-        {{ .Scratch.Delete "hideTitle" }}
-
         {{ partial "carousel.html" . }}
         <!-- Welcome Section -->
         <section class="bar background-white">
