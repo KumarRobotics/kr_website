@@ -101,6 +101,14 @@ title: "Current Members"
 >}}
 
 {{< groupitem
+  name="Vineet Pasumarti"
+  pos="PhD student, ESE"
+  desc="Vineet is a PhD student in Electrical and Systems Engineering co-advised by Dr. Antonio Loquercio and Dr. Vijay Kumar. He is interested in enabling robot learning to perceive, reason, and act in complex environments with an emphasis on speed and agility. His research covers vision-based high-speed flight and multi-agent reinforcement learning in mixed-motive games, namely autonomous drone racing."
+  image="/img/group/current/vineet_pasumarti.jpg"
+  url="https://vineetpasumarti.github.io/"
+>}}
+
+{{< groupitem
   name="Yifei Shao"
   pos="PhD student, CIS"
   desc="Yifei is a first year student pursuing PhD in Computer and Information Science(CIS). He is interested in using tools from sampling-based motion planning and optimization to generate and refine accurate motion plans in real-time. He is coadviced by Prof. Pratik Chaudhari and Prof. Vijay Kumar. He has a M.S. in Robotics & Mechanical Engineering from University of Michigan-Ann Arbor, and a B.Eng. in Mechanical Engineering from Cooper Union."
