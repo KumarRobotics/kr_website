@@ -170,6 +170,14 @@ title: "Current Members"
   url="https://marika340.github.io/"
 >}}
 
+{{< groupitem
+  name="Samuel Chua"
+  pos="MS student, Robotics"
+  desc="Samuel is interested in robot task planning and autonomous exploration, leveraging foundational models to enable robots to reason and act in unstructured environments. His research focuses on bridging perception, representation and high-level reasoning for closed-loop robot autonomy. He received his B.S. in Computer Science & Engineering from the University of California, Los Angeles. He is advised by Prof. Vijay Kumar."
+  image="/img/group/current/samuel_chua.jpg"
+  url="https://samuelchua.github.io/"
+>}}
+
 <!-- ### Undergraduate Students
 --- -->
 
