@@ -15,6 +15,14 @@ title: "Current Members"
   url=""
 >}}
 
+{{< groupitem
+  name="Jeonghyun Byun"
+  pos="Postdoctoral researcher, MEAM"
+  desc="Jeonghyun is interested in aerial manipulation. His work focuses on developing teleoperation, planning and control algorithms for aerial manipulators physically interacting with surrounding environments. Jeonghyun received the B.S. and Ph.D. degrees in Aerospace Engineering from Seoul National University, Seoul, South Korea, in 2020 and 2025, respectively. From 2025 to 2026, he was a postdoctoral associate at the Automation and Systems Research Institute (ASRI), Seoul National University, Seoul, South Korea."
+  image="/img/group/current/jeonghyun_byun.jpg"
+  url=""
+>}}
+
 &nbsp;
 
 ### Ph.D Students
