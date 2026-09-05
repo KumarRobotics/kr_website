@@ -127,9 +127,16 @@ title: "Current Members"
 
 &nbsp;
 
-<!-- ### Masters Students
+### Masters Students
 ---
--->
+
+{{< groupitem
+  name="Marika Nishi"
+  pos="MS student, Robotics & CIS"
+  desc="Marika is interested in learning-based robot control and manipulation. Her research focuses on deriving control and manipulation policies from perception, using vision transformers and LLM-based approaches such as Vision-Language-Action (VLA) models, applied to autonomous driving and aerial robotics (drones). She holds a B.S. in Mechanical Engineering from the University of Tokyo."
+  image="/img/group/current/marika_nishi.jpg"
+  url="https://marika340.github.io/"
+>}}
 
 <!-- ### Undergraduate Students
 --- -->
