@@ -124,6 +124,14 @@ title: "Current Members"
   url="https://www.pascalsikorski.com/"
 >}}
 
+{{< groupitem
+  name="Vineet Pasumarti"
+  pos="PhD student, ESE"
+  desc="Vineet is a PhD student in Electrical and Systems Engineering co-advised by Dr. Antonio Loquercio and Dr. Vijay Kumar. He is interested in enabling robot learning to perceive, reason, and act in complex environments with an emphasis on speed and agility. His research covers vision-based high-speed flight and multi-agent reinforcement learning in mixed-motive games, namely autonomous drone racing."
+  image="/img/group/current/vineet_pasumarti.jpg"
+  url="https://vineetpasumarti.github.io/"
+>}}
+
 &nbsp;
 
 &nbsp;
