@@ -12,6 +12,19 @@ The website should be available at `http://localhost:1313/`.
 2. Modify the website and **verify your modifications**.
 3. Submit a PR on Github. Please do not push directly to the `main` branch.
 
+Content is located in the `content/` folder. Images are in `static/`.
+
+## Automatic validation
+After submitting a PR, there are a few checks that are performed:
+
+### Image check
+The [`Lint`](.github/workflows/lint.yml) workflow run on every pull
+request (and locally with `python3 scripts/check_images.py`) enforces:
+- Member photos (`static/img/group/current/`) must be **exactly 600x600 px**
+  and at most **500 KB**.
+- Every image referenced in `content/`, `data/` or `layouts/` must exist under
+`static/`.
+
 ## Automated deployment to Pantheon
 
 The website is deployed to Pantheon (static hosting via the Empty Upstream)
