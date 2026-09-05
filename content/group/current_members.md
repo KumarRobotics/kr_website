@@ -108,6 +108,14 @@ title: "Current Members"
   url=""
 >}}
 
+{{< groupitem
+  name="Pascal Sikorski"
+  pos="PhD student, CIS"
+  desc="Pascal focuses on real-time group planning and communication problems found in field-robotic applications under uncertainty. Specifically, he examines how mixed human-robot teams can coordinate what to tell or ask of one another when neither the world nor team-member intent is fully understandable. He received his B.S. in Computer Science and Mathematics from Saint Louis University in 2026."
+  image="/img/group/current/pascal_sikorski.jpg"
+  url="https://www.pascalsikorski.com/"
+>}}
+
 &nbsp;
 
 &nbsp;
