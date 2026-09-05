@@ -100,6 +100,14 @@ title: "Current Members"
   url="https://zacravichandran.github.io"
 >}}
 
+{{< groupitem
+  name="Samarth Chopra"
+  pos="PhD student, ESE"
+  desc="Samarth is interested in perception and learning-based control for robotics, with a focus on autonomous systems operating in unstructured, real-world environments. His research spans navigation and manipulation for field robots, emphasizing robust scene understanding and physically grounded representations to support reliable decision-making and control. He received his B.S. in Electrical and Computer Engineering from the University of Pittsburgh. Prior to joining Penn, Samarth conducted research in robotics and embodied perception at the University of Maryland and the GRASP Lab."
+  image="/img/group/current/samarth_chopra.jpg"
+  url=""
+>}}
+
 &nbsp;
 
 &nbsp;
