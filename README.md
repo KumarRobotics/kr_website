@@ -25,6 +25,15 @@ request (and locally with `python3 scripts/check_images.py`) enforces:
 - Every image referenced in `content/`, `data/` or `layouts/` must exist under
 `static/`.
 
+### News check
+The [`Lint`](.github/workflows/lint.yml) workflow also checks every pull request
+(and locally with `python3 scripts/check_news.py`) to ensure each
+`{{< newsitem >}}` in `content/` has a non-empty **title** and **image**, and
+that the image exists under `static/`. News images must be valid images,
+**300–750 px wide**, at most **500 KB**, with a height/width ratio between
+**0.3 and 1.4**; images below **600 px** wide are reported without failing
+the check.
+
 ## Automated deployment to Pantheon
 
 The website is deployed to Pantheon (static hosting via the Empty Upstream)
