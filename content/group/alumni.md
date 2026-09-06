@@ -27,6 +27,7 @@ title: "Alumni"
 *Thesis Title:* [Robot Planning for Active Perception](https://repository.upenn.edu/handle/20.500.14332/63047)
 
 **Wenxin Liu** (CIS, 2022)\
+*Current Position:* Associate Professor, Beihang University\
 *Thesis Title:* [Visual-Inertial State Estimation with Information Deficiency](https://repository.upenn.edu/handle/20.500.14332/32205)
 
 **Arbaaz Khan** (ESE, 2021)\
@@ -76,7 +77,7 @@ title: "Alumni"
 *Thesis Title:* [Control, Planning, and Coordination for Dynamic Aerial Manipulation with Robot Teams](https://repository.upenn.edu/handle/20.500.14332/30188)
 
 **Sikang Liu** (2018)\
-*Current Position:* Software Engineer, Waymo\
+*Current Position:* DJI, Shenzhen\
 *Thesis Title:* Motion Planning for Micro Aerial Vehicles
 
 **Denise Wong** (2017)\
@@ -254,33 +255,53 @@ title: "Alumni"
 ### Postdoctoral Fellows
 ---
 
+[**Varun Murali**](https://varunmurali1.github.io/) (2023-2025)\
+*Current Position:* Assistant Professor, Electrical and Computer Engineering, Texas A&M University
+
+[**Saurav Agarwal**](https://www.saurav.fyi/) (2022-2025)\
+*Current Position:* Assistant Professor, Mechanical Engineering, Indian Institute of Technology Bombay
+
+[**Igor Spasojevic**](https://www.grasp.upenn.edu/people/igor-spasojevic/) (2022-2025)\
+*Current Position:* Assistant Professor, University of California, Riverside
+
+[**Laura Hallock**](https://laurahallock.org/) (2021-2023)\
+*Current Position:* Assistant Professor of Mechanical Engineering, University of Utah
+
+[**Lifeng Zhou**](https://lfzhou917.github.io/) (2020-2022)\
+*Current Position:* Assistant Professor, Electrical and Computer Engineering, Drexel University
+
+[**Sandeep Manjanna**](https://plaksha.edu.in/faculty-details/dr-sandeep-manjanna) (2020-2022)\
+*Current Position:* Assistant Professor, Plaksha University.
+
 [**Siddharth Mayya**](https://www.sidmayya.com/) (Postdoctoral researcher, MEAM, 2019-2021)\
 *Current Position:* Applied Scientist, Amazon Robotics
 
 **Avi Cohen** (2018)
 
 **Giuseppe Loianno** (2018)\
-*Current Position:* Assistant Professor, NYU Tandon School of Engineering
+*Current Position:* Associate Professor, UC Berkeley
 
 [**Jnaneshwar Das**](https://isearch.asu.edu/profile/3327973) (2018)\
-*Current Position:* Assistant Research Professor, Arizona State University, SESE
+*Current Position:* Associate Research Professor, Arizona State University
 
 **Amanda Prorok** (2017)\
-*Current Position:* University Lecturer (Asst. Professor), Cambridge University
+*Current Position:* Professor of Collective Intelligence and Robotics, University of Cambridge
 
-**Daigo Shishika** (2017)
+**Daigo Shishika** (2017)\
+*Current Position:* Assistant Professor, Department of Aerospace Engineering, George Mason University
 
-**Jimmy Paulos** (2017)
+**Jimmy Paulos** (2017)\
+*Current Position:* Treeswift
 
 **Konstantinos Karydis** (2015-2017)\
-*Current Position:* Assistant Professor, UC Riverside\
+*Current Position:* Professor, UC Riverside\
 *Thesis Title:* A Data-Driven Hierarchical Framework for Planning, Navigation, and Control of Uncertain Systems: Applications to Miniature Legged Robots
 
 **Nikolay A. Atanasov** (2015-2017)\
-*Current Position:* Assistant Professor, UC San Diego
+*Current Position:* Associate Professor, UC San Diego
 
 **Philip Dames** (2015-2016)\
-*Current Position:* Assistant Professor, Temple University\
+*Current Position:* Associate Professor, Temple University\
 *Thesis Title:* Multi-Robot Active Information Gathering Using Random Finite Sets.
 
 <!-- **Giuseppe Loianno** (2014-2015)\
@@ -291,7 +312,7 @@ title: "Alumni"
 *Thesis Title:* Grasping and Assembling with Modular Robots
 
 [**Pratap Tokekar**](http://tokekar.com/) (2014-2015)\
-*Current Position:* Assistant Professor, Virginia Tech\
+*Current Position:* Associate Professor , Virginia Tech\
 *Thesis Title:* Placement and Motion Planning Algorithms for Robotic Sensing Systems
 
 [**Mihail Pivtoraiko**](https://www.grasp.upenn.edu/people/mihail-pivtoraiko/) (2013-2014)
@@ -366,10 +387,6 @@ title: "Alumni"
 **Leslie Johnson** (1991)\
 *Thesis Title:* A Numerical Technique for Determination of Contact Forces for Multifingered Robotic Grippers
 
-**Lifeng Zhou**
-
-**Sandeep Manjanna**
-
 &nbsp;
 
 ### Masters Students
@@ -380,6 +397,12 @@ title: "Alumni"
 
 [**Emily Paul**](https://www.linkedin.com/in/empaul/) (May 2025)\
 *Thesis Title:* Multi-Agent Reinforcement Learning with Reward Shaping for Coverage Control
+
+[**Songhao Huang**](https://kanzez.github.io//) (May 2024)
+
+[**Xiatao Sun**](https://sunxiatao.me/) (May 2023)\
+*Thesis Title:* Imitation Learning for Autonomous Quadrotor Flight
+
 
 **Cedric de Crousaz** (May 2015)
 

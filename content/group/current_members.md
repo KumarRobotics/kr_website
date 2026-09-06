@@ -95,11 +95,10 @@ title: "Current Members"
 {{< groupitem
   name="Yuwei Wu"
   pos="PhD student, ESE"
-  desc="Yuwei’s research interest lies in motion planning. Her work involves optimization-based trajectory generations under disturbance for aerial robotics and obstacles avoidance in dynamic environments."
+  desc="Yuwei’s research focuses on physically grounded AI that integrates motion planning and control with robot dynamics and environmental constraints. She develops geometric and physics-aware learning and optimization methods that enable autonomous systems to reason, adapt, and act safely and efficiently in complex environments."
   image="/img/group/current/yuwei_wu.jpg"
-  url="https://www.seas.upenn.edu/~yuweiwu/"
+  url="https://yuwei-wu.github.io/"
 >}}
-
 {{< groupitem
   name="Zac Ravichandran"
   pos="PhD student, ESE"
