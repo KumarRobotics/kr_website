@@ -23,3 +23,16 @@ jobs:
 
       - name: Run image checks
         run: python3 scripts/check_images.py
+
+  news:
+    name: News checks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Pillow
+        run: python3 -m pip install --quiet pillow
+
+      - name: Run news checks
+        run: python3 scripts/check_news.py
