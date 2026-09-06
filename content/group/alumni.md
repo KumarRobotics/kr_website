@@ -2,8 +2,6 @@
 title: "Alumni"
 ---
 
-<!-- >### TODO: update -->
-
 ### Ph.D. Students
 ---
 
@@ -26,6 +24,38 @@ title: "Alumni"
 *Current Position:* Software Engineer at Zoox (autonomous vehicle behavior)\
 *Thesis Title:* [Robot Planning for Active Perception](https://repository.upenn.edu/handle/20.500.14332/63047)
 
+[**Jake Welde**](https://jakewelde.com/) (MEAM, 2025)\
+*Current Position:* Assistant Professor, Mechanical and Aerospace Engineering, Cornell University\
+*Thesis Title:* [Geometric Methods for Efficient and Explainable Control of Underactuated Robotic Systems](https://repository.upenn.edu/handle/20.500.14332/61792)
+
+**Austin Chen** (CIS, 2024)\
+*Current Position:* Mission Autonomy Lead at HavocAI\
+*Thesis Title:* [Perimeter Defense with Multi-Robot Systems](https://repository.upenn.edu/handle/20.500.14332/60925)
+
+**Xu Liu** (MEAM, 2024)\
+*Current Position:* Member of Technical Staff at Microsoft\
+*Thesis Title:* [Semantics-Driven Active Perception and Navigation with Aerial Robots](https://repository.upenn.edu/handle/20.500.14332/60891)
+
+**Daniel Mox** (MEAM, 2023)\
+*Current Position:* Senior Software Engineer at Zoox\
+*Thesis Title:* [Mobile Wireless Infrastructure on Demand in Robot Teams](https://repository.upenn.edu/handle/20.500.14332/59445)
+
+**Elijah S. Lee** (CIS, 2023)\
+*Current Position:* Senior Software Engineer at Latitude AI\
+*Thesis Title:* [Perception-Action Loop for Multi-Robot Systems with Deep Learning](https://repository.upenn.edu/handle/20.500.14332/59092)
+
+[**Ian Miller**](https://www.linkedin.com/in/ian-miller-122602133) (ESE, 2023)\
+*Current Position:* Staff Robotics Engineer at Burro\
+*Thesis Title:* [A Robot's Search for Meaning: Semantics as a Common Representation for Heterogeneous Robot State Estimation and Collaboration](https://repository.upenn.edu/handle/20.500.14332/59299)
+
+[**Matthew Malencia**](https://www.linkedin.com/in/matthewmalencia/) (ESE, 2023)\
+*Current Position:* Senior Technical Product Manager at Exyn Technologies\
+*Thesis Title:* [Fairness in Multi Robot Systems](https://repository.upenn.edu/handle/20.500.14332/59077)
+
+[**Kelsey Saulnier**](https://www.linkedin.com/in/kelsey-saulnier-3740441b) (ESE, 2022)\
+*Current Position:* Robotics Engineer at Pattern Labs\
+*Thesis Title:* [Resilient Information Theoretic Active Exploration for Multi-Robot Teams](https://repository.upenn.edu/handle/20.500.14332/59725)
+
 **Wenxin Liu** (CIS, 2022)\
 *Current Position:* Associate Professor, Beihang University\
 *Thesis Title:* [Visual-Inertial State Estimation with Information Deficiency](https://repository.upenn.edu/handle/20.500.14332/32205)
@@ -42,7 +72,8 @@ title: "Alumni"
 *Current Position:* Zoox\
 *Thesis Title:* [Stochastic Motion Planning for Mobile Robots](https://repository.upenn.edu/handle/20.500.14332/31665)
 
-**Rebecca Li** (2021)
+[**Rebecca Li**](https://rebecca.li/) (2021)\
+*Current Position:* Commonwealth Fusion Systems
 
 **Elizabeth Beattie Hunter** (MEAM, 2020)\
 *Current Position:* COO & Co-founder, Treeswift\
