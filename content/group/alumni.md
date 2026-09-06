@@ -429,7 +429,16 @@ title: "Alumni"
 [**Emily Paul**](https://www.linkedin.com/in/empaul/) (May 2025)\
 *Thesis Title:* Multi-Agent Reinforcement Learning with Reward Shaping for Coverage Control
 
+[**Derek Cheng**](https://www.linkedin.com/in/derekwcheng/) (2024)\
+*Current Position:* Senior Software Engineer - Robotics & AI at Standard Bots
+
+[**Hanli Zhang**](https://hanlizhang.github.io/) (2024)\
+*Current Position:* Ph.D. student in Robotics at EPFL
+
 [**Songhao Huang**](https://kanzez.github.io//) (May 2024)
+
+[**Jiazhen Liu**](https://star-lab.cc.gatech.edu/team/jiazhen-liu/) (May 2023)\
+*Current Position:* Ph.D. student in Robotics at Georgia Tech
 
 [**Xiatao Sun**](https://sunxiatao.me/) (May 2023)\
 *Thesis Title:* Imitation Learning for Autonomous Quadrotor Flight
